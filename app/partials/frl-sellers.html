@@ -1,9 +1,9 @@
 
-<div class='content-wrapper' ng-init="app.settings.pagetitle = 'Sellers';">
+<div class='content-wrapper' ng-init="app.settings.pagetitle = 'Time In/Out';">
     <div class="col-lg-12">
         <section class="box ">
             <header class="panel_header">
-                <h2 class="title pull-left">All Sellers</h2>
+                <h2 class="title pull-left">Team Members/h2>
                 <div class="actions panel_actions pull-right">
                     <i class="box_toggle material-icons">expand_more</i>
                     <i class="box_setting material-icons" ng-click="section_modal()">mode_edit</i>
@@ -17,21 +17,21 @@
           sAjaxSource: 'data/frl-sellers.json',
           aoColumns: [
             { mData: 'id' },
-            { mData: 'name' },
-            { mData: 'company' },
-            { mData: 'email' },
-            { mData: 'phone' },
-            { mData: 'createdon' }
+            { mData: 'Name' },
+            { mData: 'TimeIn' },
+            { mData: 'TimeOut' },
+            { mData: 'TimeRendered' },
+            { mData: 'Date' }
           ]
         }" class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th style="width:5%">ID</th>
+                                    <th style="width:5%">#</th>
                                         <th style="width:15%">Name</th>
-                                    <th style="width:10%">Company</th>
-                                        <th style="width:15%">Email</th>
-                                        <th style="width:15%">Phone</th>
-                                    <th style="width:15%">Added on</th>
+                                    <th style="width:10%">Time In</th>
+                                        <th style="width:15%">Time Out</th>
+                                        <th style="width:15%">Time Rendered</th>
+                                    <th style="width:15%">Date</th>
                                 </tr>
                             </thead>
                             <tbody>
