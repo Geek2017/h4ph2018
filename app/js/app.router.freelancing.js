@@ -94,7 +94,7 @@ angular.module('app')
                         templateUrl: 'partials/frl-buyer-add.html'
                     })    
                     .state('app.frl-buyer-edit', {
-                        url: '/ezwork/buyer-edit',
+                        url: '/ezwork/calendar',
                         templateUrl: 'partials/frl-buyer-edit.html'
                     })
                     .state('app.frl-sellers', {
