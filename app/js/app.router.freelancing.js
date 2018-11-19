@@ -9,7 +9,7 @@ angular.module('app')
             function($stateProvider, $urlRouterProvider, JQ_CONFIG) {
 
                 $urlRouterProvider
-                    .otherwise('/app/freelancing/dashboard');
+                    .otherwise('/app/ezwork/dashboard');
                 $stateProvider
 
                     .state('app', {
@@ -19,7 +19,7 @@ angular.module('app')
                     })
 
                     .state('app.frl-dashboard', {
-                        url: '/freelancing/dashboard',
+                        url: '/ezwork/dashboard',
                         templateUrl: 'partials/frl-dashboard.html',
                         resolve: {
                             deps: ['$ocLazyLoad',
@@ -73,44 +73,44 @@ angular.module('app')
                         templateUrl: 'partials/mail-view.html'
                     }) 
                     .state('app.frl-users', {
-                        url: '/freelancing/users',
+                        url: '/ezwork/users',
                         templateUrl: 'partials/frl-users.html'
                     })    
                     .state('app.frl-user-add', {
-                        url: '/freelancing/user-add',
+                        url: '/ezwork/user-add',
                         templateUrl: 'partials/frl-user-add.html'
                     })    
                     .state('app.frl-user-edit', {
-                        url: '/freelancing/user-edit',
+                        url: '/ezwork/user-edit',
                         templateUrl: 'partials/frl-user-edit.html'
                     })
                        
                     .state('app.frl-buyers', {
-                        url: '/freelancing/buyers',
+                        url: '/ezwork/tskmngr',
                         templateUrl: 'partials/frl-buyers.html'
                     })    
                     .state('app.frl-buyer-add', {
-                        url: '/freelancing/buyer-add',
+                        url: '/ezwork/buyer-add',
                         templateUrl: 'partials/frl-buyer-add.html'
                     })    
                     .state('app.frl-buyer-edit', {
-                        url: '/freelancing/buyer-edit',
+                        url: '/ezwork/buyer-edit',
                         templateUrl: 'partials/frl-buyer-edit.html'
                     })
                     .state('app.frl-sellers', {
-                        url: '/freelancing/sellers',
+                        url: '/ezwork/sellers',
                         templateUrl: 'partials/frl-sellers.html'
                     })    
                     .state('app.frl-seller-add', {
-                        url: '/freelancing/seller-add',
+                        url: '/ezwork/seller-add',
                         templateUrl: 'partials/frl-seller-add.html'
                     })    
                     .state('app.frl-seller-edit', {
-                        url: '/freelancing/seller-edit',
+                        url: '/ezwork/seller-edit',
                         templateUrl: 'partials/frl-seller-edit.html'
                     })
                     .state('app.frl-report-sales', {
-                        url: '/freelancing/report-sales',
+                        url: '/ezwork/report-sales',
                         templateUrl: 'partials/frl-report-sales.html',
                         resolve: {
                             deps: ['$ocLazyLoad',
@@ -125,7 +125,7 @@ angular.module('app')
                         }
                     }) 
                     .state('app.frl-report-buyers', {
-                        url: '/freelancing/report-buyers',
+                        url: '/ezwork/report-buyers',
                         templateUrl: 'partials/frl-report-buyers.html',
                         resolve: {
                             deps: ['$ocLazyLoad',
@@ -140,7 +140,7 @@ angular.module('app')
                         }
                     })
                     .state('app.frl-report-targets', {
-                        url: '/freelancing/report-targets',
+                        url: '/ezwork/report-targets',
                         templateUrl: 'partials/frl-report-targets.html',
                         resolve: {
                             deps: ['$ocLazyLoad',
@@ -151,43 +151,43 @@ angular.module('app')
                         }
                     })
                     .state('app.frl-tickets', {
-                        url: '/freelancing/tickets',
+                        url: '/ezwork/tickets',
                         templateUrl: 'partials/frl-tickets.html'
                     })    
                     .state('app.frl-ticket-add', {
-                        url: '/freelancing/ticket-add',
+                        url: '/ezwork/ticket-add',
                         templateUrl: 'partials/frl-ticket-add.html'
                     })    
                     .state('app.frl-ticket-edit', {
-                        url: '/freelancing/ticket-edit',
+                        url: '/ezwork/ticket-edit',
                         templateUrl: 'partials/frl-ticket-edit.html'
                     })
                     .state('app.frl-invoices', {
-                        url: '/freelancing/invoices',
+                        url: '/ezwork/invoices',
                         templateUrl: 'partials/frl-invoices.html'
                     })    
                     .state('app.frl-invoice-add', {
-                        url: '/freelancing/invoice-add',
+                        url: '/ezwork/invoice-add',
                         templateUrl: 'partials/frl-invoice-add.html'
                     })    
                     .state('app.frl-invoice-edit', {
-                        url: '/freelancing/invoice-edit',
+                        url: '/ezwork/invoice-edit',
                         templateUrl: 'partials/frl-invoice-edit.html'
                     })
                     .state('app.frl-invoice-view', {
-                        url: '/freelancing/invoice-view',
+                        url: '/ezwork/invoice-view',
                         templateUrl: 'partials/frl-invoice-view.html'
                     }) 
                     .state('app.frl-bids', {
-                        url: '/freelancing/bids',
+                        url: '/ezwork/bids',
                         templateUrl: 'partials/frl-bids.html'
                     })    
                     .state('app.frl-bid-add', {
-                        url: '/freelancing/bid-add',
+                        url: '/ezwork/bid-add',
                         templateUrl: 'partials/frl-bid-add.html'
                     })    
                     .state('app.frl-bid-edit', {
-                        url: '/freelancing/bid-edit',
+                        url: '/ezwork/bid-edit',
                         templateUrl: 'partials/frl-bid-edit.html'
                     })
 
