@@ -18,7 +18,7 @@ li {
 }
 
 .col {
-  background-color: rgba(202, 206, 213, 0.8);
+  background-color: rgb(83, 187, 149);
   float: left;
   margin: 10px;
   border-radius: 5px;
@@ -29,7 +29,7 @@ li {
   transition: all 0.2s ease-in-out;
 }
 .col:hover {
-  background-color: rgba(202, 206, 213, 0.95);
+  background-color: rgba(#fff);
 }
 
 .card {
@@ -39,7 +39,7 @@ li {
   margin: 15px;
   transition: all 0.3s ease-in-out;
   line-height: 1.5rem;
-  box-shadow: 0 1px #aaa;
+  box-shadow: 0 1px rgba(1, 250, 34, 0.407);
 }
 .card div {
   padding: 15px;
