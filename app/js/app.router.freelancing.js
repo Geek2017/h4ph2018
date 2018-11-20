@@ -92,6 +92,7 @@ angular.module('app')
                     .state('app.frl-buyer-add', {
                         url: '/ezwork/brainwrite',
                         templateUrl: 'partials/frl-buyer-add.html'
+                        
                     })    
                     .state('app.frl-buyer-edit', {
                         url: '/ezwork/calendar',
