@@ -5,7 +5,7 @@
             "customer": "Jane Rose",
             "job": "logo design",
             "email": "jrose0@zimbio.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/26/2015",
             "price": "$445.84"
         },
@@ -14,8 +14,8 @@
             "number": "11980-022",
             "customer": "Jose Gutierrez",
             "job": "logo design",
-            "email": "jgutierrez1@prper-hrs.swire.com",
-            "status": "bi-monthly",
+            "email": "jgutierrez1@prSilver swire.com",
+            "status": "Premium ",
             "date": "10/6/2015",
             "price": "$489.66"
         },
@@ -25,7 +25,7 @@
             "customer": "Walter Bishop",
             "job": "SEO and SEM",
             "email": "wbishop2@mit.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/12/2015",
             "price": "$492.57"
         },
@@ -35,7 +35,7 @@
             "customer": "Clarence Little",
             "job": "logo design",
             "email": "clittle3@tiny.cc",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/11/2015",
             "price": "$353.53"
         },
@@ -45,7 +45,7 @@
             "customer": "Martha Dunn",
             "job": "SEO and SEM",
             "email": "mdunn4@seattletimes.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/7/2015",
             "price": "$489.63"
         },
@@ -55,7 +55,7 @@
             "customer": "Rachel Gray",
             "job": "graphic design",
             "email": "rgray5@naver.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/13/2015",
             "price": "$369.68"
         },
@@ -65,7 +65,7 @@
             "customer": "Ralph Tucker",
             "job": "wordpress website",
             "email": "rtucker6@wikia.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/23/2015",
             "price": "$397.06"
         },
@@ -75,7 +75,7 @@
             "customer": "Betty Baker",
             "job": "photoshop",
             "email": "bbaker7@si.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/7/2015",
             "price": "$157.12"
         },
@@ -85,7 +85,7 @@
             "customer": "Lori Wilson",
             "job": "php website",
             "email": "lwilson8@pbs.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/12/2014",
             "price": "$450.19"
         },
@@ -95,7 +95,7 @@
             "customer": "Jennifer Matthews",
             "job": "programming",
             "email": "jmatthews9@t-online.de",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/9/2015",
             "price": "$478.61"
         },
@@ -105,7 +105,7 @@
             "customer": "Gregory Williams",
             "job": "marketing",
             "email": "gwilliamsa@prlog.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/4/2015",
             "price": "$354.83"
         },
@@ -115,7 +115,7 @@
             "customer": "Robin Hamilton",
             "job": "social media marketing",
             "email": "rhamiltonb@prlog.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/6/2015",
             "price": "$400.76"
         },
@@ -125,7 +125,7 @@
             "customer": "Betty James",
             "job": "programming",
             "email": "bjamesc@instagram.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/29/2015",
             "price": "$498.35"
         },
@@ -135,7 +135,7 @@
             "customer": "Johnny Williams",
             "job": "photoshop",
             "email": "jwilliamsd@census.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/25/2015",
             "price": "$431.01"
         },
@@ -145,9 +145,9 @@
             "customer": "Robert Porter",
             "job": "programming",
             "email": "rportere@de.vu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/9/2015",
-            "price": "$20"
+            "price": "$200"
         },
         {
             "id": 16,
@@ -155,7 +155,7 @@
             "customer": "Louise Rose",
             "job": "marketing",
             "email": "lrosef@jalbum.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/30/2015",
             "price": "$46.07"
         },
@@ -165,7 +165,7 @@
             "customer": "Douglas Kelley",
             "job": "programming",
             "email": "dkelleyg@yellowbook.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/8/2015",
             "price": "$384.82"
         },
@@ -175,7 +175,7 @@
             "customer": "Daniel Warren",
             "job": "social media marketing",
             "email": "dwarrenh@wordpress.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/2/2015",
             "price": "$315.32"
         },
@@ -185,7 +185,7 @@
             "customer": "Wayne West",
             "job": "web design",
             "email": "wwesti@upenn.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/13/2015",
             "price": "$162.38"
         },
@@ -195,7 +195,7 @@
             "customer": "Harold Hicks",
             "job": "branding",
             "email": "hhicksj@senate.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/19/2015",
             "price": "$259.86"
         },
@@ -205,7 +205,7 @@
             "customer": "Bobby Hill",
             "job": "marketing",
             "email": "bhillk@reverbnation.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/24/2015",
             "price": "$397.16"
         },
@@ -215,7 +215,7 @@
             "customer": "Edward Mcdonald",
             "job": "web design",
             "email": "emcdonaldl@sciencedirect.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/17/2015",
             "price": "$289.05"
         },
@@ -225,7 +225,7 @@
             "customer": "Amanda Bryant",
             "job": "php website",
             "email": "abryantm@europa.eu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/5/2015",
             "price": "$280.69"
         },
@@ -235,7 +235,7 @@
             "customer": "Irene Jones",
             "job": "logo design",
             "email": "ijonesn@springer.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/20/2014",
             "price": "$158.67"
         },
@@ -245,7 +245,7 @@
             "customer": "Julie Nguyen",
             "job": "web design",
             "email": "jnguyeno@cpanel.net",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/16/2015",
             "price": "$220.06"
         },
@@ -255,7 +255,7 @@
             "customer": "Tina Duncan",
             "job": "crm service",
             "email": "tduncanp@squarespace.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/13/2015",
             "price": "$456.80"
         },
@@ -265,7 +265,7 @@
             "customer": "Joan Baker",
             "job": "php website",
             "email": "jbakerq@nps.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/5/2015",
             "price": "$313.06"
         },
@@ -275,7 +275,7 @@
             "customer": "George Coleman",
             "job": "php website",
             "email": "gcolemanr@google.ca",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/30/2015",
             "price": "$153.48"
         },
@@ -285,7 +285,7 @@
             "customer": "Douglas Boyd",
             "job": "web design",
             "email": "dboyds@hao123.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/4/2015",
             "price": "$496.34"
         },
@@ -295,7 +295,7 @@
             "customer": "Jesse Richards",
             "job": "photoshop",
             "email": "jrichardst@wikia.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/13/2015",
             "price": "$254.20"
         },
@@ -305,7 +305,7 @@
             "customer": "Shawn Scott",
             "job": "logo design",
             "email": "sscottu@liveinternet.ru",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/31/2015",
             "price": "$455.23"
         },
@@ -315,7 +315,7 @@
             "customer": "Shawn Lee",
             "job": "crm service",
             "email": "sleev@opera.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/17/2015",
             "price": "$175.74"
         },
@@ -324,8 +324,8 @@
             "number": "41520-505",
             "customer": "Rebecca Grant",
             "job": "social media marketing",
-            "email": "rgrantw@per-hrs.svine.com",
-            "status": "per-hrs.",
+            "email": "rgrantw@Silver svine.com",
+            "status": "Silver ",
             "date": "4/16/2015",
             "price": "$276.89"
         },
@@ -335,7 +335,7 @@
             "customer": "Fred George",
             "job": "crm service",
             "email": "fgeorgex@webmd.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/11/2015",
             "price": "$456.54"
         },
@@ -345,7 +345,7 @@
             "customer": "Jean Hawkins",
             "job": "programming",
             "email": "jhawkinsy@economist.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/9/2015",
             "price": "$100.25"
         },
@@ -355,7 +355,7 @@
             "customer": "Eric Oliver",
             "job": "branding",
             "email": "eoliverz@omniture.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/21/2015",
             "price": "$283.15"
         },
@@ -365,7 +365,7 @@
             "customer": "Victor Harris",
             "job": "graphic design",
             "email": "vharris10@google.it",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/30/2015",
             "price": "$313.12"
         },
@@ -375,7 +375,7 @@
             "customer": "Russell Freeman",
             "job": "logo design",
             "email": "rfreeman11@wix.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/11/2015",
             "price": "$398.09"
         },
@@ -385,7 +385,7 @@
             "customer": "Steve Turner",
             "job": "graphic design",
             "email": "sturner12@utexas.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/8/2015",
             "price": "$224.06"
         },
@@ -395,7 +395,7 @@
             "customer": "Ruth Butler",
             "job": "web design",
             "email": "rbutler13@narod.ru",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/16/2015",
             "price": "$293.99"
         },
@@ -405,7 +405,7 @@
             "customer": "Patrick Fernandez",
             "job": "marketing",
             "email": "pfernandez14@histats.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/6/2015",
             "price": "$376.67"
         },
@@ -415,7 +415,7 @@
             "customer": "Helen Garza",
             "job": "php website",
             "email": "hgarza15@dyndns.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/24/2014",
             "price": "$284.06"
         },
@@ -425,7 +425,7 @@
             "customer": "Betty Burns",
             "job": "social media marketing",
             "email": "bburns16@guardian.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/11/2015",
             "price": "$392.33"
         },
@@ -435,7 +435,7 @@
             "customer": "Billy Black",
             "job": "social media marketing",
             "email": "bblack17@furl.net",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/5/2015",
             "price": "$131.23"
         },
@@ -445,7 +445,7 @@
             "customer": "Stephen Green",
             "job": "programming",
             "email": "sgreen18@bandcamp.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/17/2015",
             "price": "$132.95"
         },
@@ -455,7 +455,7 @@
             "customer": "Sara Gardner",
             "job": "marketing",
             "email": "sgardner19@cornell.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/1/2015",
             "price": "$475.08"
         },
@@ -465,7 +465,7 @@
             "customer": "Peter Day",
             "job": "branding",
             "email": "pday1a@blogs.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/13/2015",
             "price": "$210.20"
         },
@@ -475,7 +475,7 @@
             "customer": "Howard Stephens",
             "job": "social media marketing",
             "email": "hstephens1b@seattletimes.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/26/2015",
             "price": "$278.72"
         },
@@ -485,7 +485,7 @@
             "customer": "Johnny Williams",
             "job": "wordpress website",
             "email": "jwilliams1c@flickr.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/8/2015",
             "price": "$312.67"
         },
@@ -494,8 +494,8 @@
             "number": "55289-443",
             "customer": "Jessica White",
             "job": "programming",
-            "email": "jwhite1d@nydailyper-hrs.s.com",
-            "status": "bi-monthly",
+            "email": "jwhite1d@nydailySilver s.com",
+            "status": "Premium ",
             "date": "7/17/2015",
             "price": "$414.08"
         },
@@ -505,7 +505,7 @@
             "customer": "Raymond Weaver",
             "job": "SEO and SEM",
             "email": "rweaver1e@craigslist.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/11/2015",
             "price": "$431.40"
         },
@@ -515,7 +515,7 @@
             "customer": "Terry Lawson",
             "job": "crm service",
             "email": "tlawson1f@sogou.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/23/2015",
             "price": "$421.18"
         },
@@ -525,7 +525,7 @@
             "customer": "Sarah Perez",
             "job": "SEO and SEM",
             "email": "sperez1g@sphinn.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/16/2015",
             "price": "$177.58"
         },
@@ -535,7 +535,7 @@
             "customer": "Jesse Watkins",
             "job": "SEO and SEM",
             "email": "jwatkins1h@bravesites.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/12/2015",
             "price": "$280.88"
         },
@@ -545,7 +545,7 @@
             "customer": "Martha Edwards",
             "job": "php website",
             "email": "medwards1i@oaic.gov.au",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/13/2014",
             "price": "$411.12"
         },
@@ -555,7 +555,7 @@
             "customer": "Charles Miller",
             "job": "programming",
             "email": "cmiller1j@cnbc.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/21/2015",
             "price": "$118.57"
         },
@@ -565,7 +565,7 @@
             "customer": "Amy Weaver",
             "job": "marketing",
             "email": "aweaver1k@over-blog.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/11/2015",
             "price": "$147.39"
         },
@@ -575,7 +575,7 @@
             "customer": "Jimmy Murray",
             "job": "programming",
             "email": "jmurray1l@arstechnica.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/21/2015",
             "price": "$183.72"
         },
@@ -585,7 +585,7 @@
             "customer": "Martha Mitchell",
             "job": "branding",
             "email": "mmitchell1m@posterous.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/24/2015",
             "price": "$487.95"
         },
@@ -595,7 +595,7 @@
             "customer": "Adam Harris",
             "job": "branding",
             "email": "aharris1n@yahoo.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/12/2015",
             "price": "$372.25"
         },
@@ -605,7 +605,7 @@
             "customer": "Billy Ray",
             "job": "logo design",
             "email": "bray1o@tamu.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/21/2014",
             "price": "$372.75"
         },
@@ -615,7 +615,7 @@
             "customer": "Melissa Schmidt",
             "job": "photoshop",
             "email": "mschmidt1p@spiegel.de",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/19/2015",
             "price": "$441.83"
         },
@@ -625,7 +625,7 @@
             "customer": "Christine Payne",
             "job": "marketing",
             "email": "cpayne1q@last.fm",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/3/2015",
             "price": "$310.34"
         },
@@ -635,7 +635,7 @@
             "customer": "Randy Lynch",
             "job": "graphic design",
             "email": "rlynch1r@independent.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/7/2015",
             "price": "$444.65"
         },
@@ -645,7 +645,7 @@
             "customer": "Charles Fernandez",
             "job": "graphic design",
             "email": "cfernandez1s@imgur.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/7/2015",
             "price": "$414.92"
         },
@@ -655,7 +655,7 @@
             "customer": "Alice Thomas",
             "job": "php website",
             "email": "athomas1t@si.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/31/2015",
             "price": "$215.12"
         },
@@ -665,7 +665,7 @@
             "customer": "Janet Alvarez",
             "job": "branding",
             "email": "jalvarez1u@freewebs.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/13/2015",
             "price": "$103.50"
         },
@@ -675,7 +675,7 @@
             "customer": "Kelly Shaw",
             "job": "wordpress website",
             "email": "kshaw1v@va.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/28/2015",
             "price": "$241.13"
         },
@@ -685,7 +685,7 @@
             "customer": "Lillian Barnes",
             "job": "photoshop",
             "email": "lbarnes1w@wikipedia.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/5/2015",
             "price": "$191.09"
         },
@@ -695,7 +695,7 @@
             "customer": "Janice Boyd",
             "job": "php website",
             "email": "jboyd1x@gnu.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/9/2015",
             "price": "$499.61"
         },
@@ -705,7 +705,7 @@
             "customer": "Diana Rice",
             "job": "graphic design",
             "email": "drice1y@squarespace.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/11/2015",
             "price": "$170.27"
         },
@@ -715,7 +715,7 @@
             "customer": "Marie Gordon",
             "job": "social media marketing",
             "email": "mgordon1z@whitehouse.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/28/2015",
             "price": "$228.91"
         },
@@ -725,7 +725,7 @@
             "customer": "Craig Moreno",
             "job": "programming",
             "email": "cmoreno20@nps.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/23/2015",
             "price": "$196.28"
         },
@@ -735,7 +735,7 @@
             "customer": "Christine Duncan",
             "job": "marketing",
             "email": "cduncan21@timesonline.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/1/2015",
             "price": "$375.62"
         },
@@ -745,7 +745,7 @@
             "customer": "Christine Daniels",
             "job": "wordpress website",
             "email": "cdaniels22@ihg.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/13/2015",
             "price": "$444.17"
         },
@@ -755,7 +755,7 @@
             "customer": "Heather Boyd",
             "job": "programming",
             "email": "hboyd23@timesonline.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/27/2015",
             "price": "$459.77"
         },
@@ -765,7 +765,7 @@
             "customer": "Evelyn Mccoy",
             "job": "photoshop",
             "email": "emccoy24@angelfire.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/15/2015",
             "price": "$216.14"
         },
@@ -775,7 +775,7 @@
             "customer": "Rebecca Washington",
             "job": "social media marketing",
             "email": "rwashington25@dagondesign.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/31/2015",
             "price": "$246.67"
         },
@@ -785,7 +785,7 @@
             "customer": "Arthur Nichols",
             "job": "SEO and SEM",
             "email": "anichols26@networksolutions.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/16/2015",
             "price": "$254.94"
         },
@@ -795,7 +795,7 @@
             "customer": "Janice Gutierrez",
             "job": "SEO and SEM",
             "email": "jgutierrez27@chicagotribune.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/23/2014",
             "price": "$431.87"
         },
@@ -805,7 +805,7 @@
             "customer": "Carol Burton",
             "job": "wordpress website",
             "email": "cburton28@w3.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/28/2015",
             "price": "$310.47"
         },
@@ -815,7 +815,7 @@
             "customer": "Chris Berry",
             "job": "web design",
             "email": "cberry29@infoseek.co.jp",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/16/2015",
             "price": "$130.94"
         },
@@ -825,7 +825,7 @@
             "customer": "Jeremy Garza",
             "job": "branding",
             "email": "jgarza2a@slate.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/18/2015",
             "price": "$261.54"
         },
@@ -835,7 +835,7 @@
             "customer": "Nicole Greene",
             "job": "social media marketing",
             "email": "ngreene2b@google.fr",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/30/2015",
             "price": "$414.90"
         },
@@ -845,7 +845,7 @@
             "customer": "Thomas Murphy",
             "job": "branding",
             "email": "tmurphy2c@buzzfeed.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/2/2015",
             "price": "$282.62"
         },
@@ -855,7 +855,7 @@
             "customer": "Andrea Diaz",
             "job": "social media marketing",
             "email": "adiaz2d@ebay.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/30/2015",
             "price": "$363.11"
         },
@@ -865,7 +865,7 @@
             "customer": "Rose Stone",
             "job": "marketing",
             "email": "rstone2e@hao123.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/2/2014",
             "price": "$222.58"
         },
@@ -875,7 +875,7 @@
             "customer": "Marie Morris",
             "job": "marketing",
             "email": "mmorris2f@mit.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/9/2014",
             "price": "$419.18"
         },
@@ -885,7 +885,7 @@
             "customer": "Todd Richards",
             "job": "web design",
             "email": "trichards2g@aboutads.info",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/10/2015",
             "price": "$127.81"
         },
@@ -895,7 +895,7 @@
             "customer": "Juan Garcia",
             "job": "logo design",
             "email": "jgarcia2h@sakura.ne.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/27/2015",
             "price": "$399.44"
         },
@@ -905,7 +905,7 @@
             "customer": "Walter Williamson",
             "job": "web design",
             "email": "wwilliamson2i@angelfire.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/16/2014",
             "price": "$426.69"
         },
@@ -915,7 +915,7 @@
             "customer": "Richard Meyer",
             "job": "logo design",
             "email": "rmeyer2j@networkadvertising.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/22/2015",
             "price": "$483.80"
         },
@@ -925,7 +925,7 @@
             "customer": "Jonathan Bryant",
             "job": "crm service",
             "email": "jbryant2k@shop-pro.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/3/2014",
             "price": "$270.93"
         },
@@ -935,7 +935,7 @@
             "customer": "Ashley Vasquez",
             "job": "crm service",
             "email": "avasquez2l@facebook.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/22/2015",
             "price": "$263.14"
         },
@@ -945,7 +945,7 @@
             "customer": "Ann Marshall",
             "job": "php website",
             "email": "amarshall2m@mysql.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/21/2015",
             "price": "$203.96"
         },
@@ -955,7 +955,7 @@
             "customer": "Kathy Hamilton",
             "job": "marketing",
             "email": "khamilton2n@si.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/8/2015",
             "price": "$123.06"
         },
@@ -965,7 +965,7 @@
             "customer": "Emily Davis",
             "job": "branding",
             "email": "edavis2o@reverbnation.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/29/2014",
             "price": "$153.84"
         },
@@ -975,7 +975,7 @@
             "customer": "Cynthia Matthews",
             "job": "graphic design",
             "email": "cmatthews2p@jugem.jp",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/1/2015",
             "price": "$214.33"
         },
@@ -985,7 +985,7 @@
             "customer": "Carlos Edwards",
             "job": "marketing",
             "email": "cedwards2q@smugmug.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/30/2015",
             "price": "$202.62"
         },
@@ -995,7 +995,7 @@
             "customer": "Raymond Lynch",
             "job": "php website",
             "email": "rlynch2r@cdbaby.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/14/2015",
             "price": "$201.38"
         },
@@ -1005,7 +1005,7 @@
             "customer": "Evelyn Foster",
             "job": "marketing",
             "email": "efoster2s@imageshack.us",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/2/2015",
             "price": "$283.69"
         },
@@ -1015,7 +1015,7 @@
             "customer": "Martha Freeman",
             "job": "photoshop",
             "email": "mfreeman2t@spotify.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/11/2015",
             "price": "$467.67"
         },
@@ -1025,7 +1025,7 @@
             "customer": "Roy Garrett",
             "job": "SEO and SEM",
             "email": "rgarrett2u@shutterfly.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/17/2015",
             "price": "$454.20"
         },
@@ -1035,7 +1035,7 @@
             "customer": "Scott Phillips",
             "job": "SEO and SEM",
             "email": "sphillips2v@samsung.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/18/2015",
             "price": "$388.46"
         },
@@ -1045,7 +1045,7 @@
             "customer": "Gloria Stephens",
             "job": "SEO and SEM",
             "email": "gstephens2w@auda.org.au",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/15/2015",
             "price": "$408.85"
         },
@@ -1055,7 +1055,7 @@
             "customer": "William Scott",
             "job": "social media marketing",
             "email": "wscott2x@whitehouse.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/5/2015",
             "price": "$174.88"
         },
@@ -1065,7 +1065,7 @@
             "customer": "Douglas Wilson",
             "job": "graphic design",
             "email": "dwilson2y@histats.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/29/2015",
             "price": "$237.15"
         },
@@ -1075,7 +1075,7 @@
             "customer": "Daniel Brooks",
             "job": "branding",
             "email": "dbrooks2z@a8.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/3/2015",
             "price": "$351.83"
         },
@@ -1085,7 +1085,7 @@
             "customer": "Linda Reed",
             "job": "web design",
             "email": "lreed30@bbc.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/7/2015",
             "price": "$329.85"
         },
@@ -1095,7 +1095,7 @@
             "customer": "Raymond Butler",
             "job": "branding",
             "email": "rbutler31@simplemachines.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/23/2015",
             "price": "$192.12"
         },
@@ -1105,7 +1105,7 @@
             "customer": "Christina Porter",
             "job": "marketing",
             "email": "cporter32@cam.ac.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/14/2015",
             "price": "$462.52"
         },
@@ -1115,7 +1115,7 @@
             "customer": "Kathy Holmes",
             "job": "graphic design",
             "email": "kholmes33@google.com.au",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/28/2015",
             "price": "$339.65"
         },
@@ -1125,7 +1125,7 @@
             "customer": "Jennifer Mendoza",
             "job": "web design",
             "email": "jmendoza34@hugedomains.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/21/2014",
             "price": "$229.98"
         },
@@ -1135,7 +1135,7 @@
             "customer": "Christina Armstrong",
             "job": "web design",
             "email": "carmstrong35@dell.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/14/2015",
             "price": "$259.99"
         },
@@ -1145,7 +1145,7 @@
             "customer": "Emily Perez",
             "job": "php website",
             "email": "eperez36@ucsd.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/1/2015",
             "price": "$309.67"
         },
@@ -1155,7 +1155,7 @@
             "customer": "Jason Taylor",
             "job": "branding",
             "email": "jtaylor37@edublogs.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/3/2015",
             "price": "$259.32"
         },
@@ -1165,7 +1165,7 @@
             "customer": "Betty Murray",
             "job": "php website",
             "email": "bmurray38@dropbox.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/6/2015",
             "price": "$283.00"
         },
@@ -1175,7 +1175,7 @@
             "customer": "Wayne Greene",
             "job": "marketing",
             "email": "wgreene39@cnbc.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/27/2015",
             "price": "$122.41"
         },
@@ -1184,8 +1184,8 @@
             "number": "13734-127",
             "customer": "Martha Palmer",
             "job": "php website",
-            "email": "mpalmer3a@per-hrs.yorker.com",
-            "status": "per-hrs.",
+            "email": "mpalmer3a@Silver yorker.com",
+            "status": "Silver ",
             "date": "2/5/2015",
             "price": "$372.51"
         },
@@ -1195,7 +1195,7 @@
             "customer": "Chris Harvey",
             "job": "wordpress website",
             "email": "charvey3b@webmd.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/21/2015",
             "price": "$367.90"
         },
@@ -1205,7 +1205,7 @@
             "customer": "Joshua Thompson",
             "job": "crm service",
             "email": "jthompson3c@networkadvertising.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/8/2015",
             "price": "$347.67"
         },
@@ -1215,7 +1215,7 @@
             "customer": "Robin Jacobs",
             "job": "logo design",
             "email": "rjacobs3d@soup.io",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/3/2015",
             "price": "$368.68"
         },
@@ -1225,7 +1225,7 @@
             "customer": "Julia Torres",
             "job": "marketing",
             "email": "jtorres3e@wix.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/10/2014",
             "price": "$397.50"
         },
@@ -1235,7 +1235,7 @@
             "customer": "Phyllis Olson",
             "job": "graphic design",
             "email": "polson3f@about.me",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/30/2015",
             "price": "$237.83"
         },
@@ -1245,7 +1245,7 @@
             "customer": "Bonnie Gonzales",
             "job": "php website",
             "email": "bgonzales3g@bluehost.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/24/2015",
             "price": "$209.16"
         },
@@ -1255,7 +1255,7 @@
             "customer": "Anthony Arnold",
             "job": "crm service",
             "email": "aarnold3h@stanford.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/2/2015",
             "price": "$193.27"
         },
@@ -1265,7 +1265,7 @@
             "customer": "Joan Perez",
             "job": "wordpress website",
             "email": "jperez3i@rediff.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/6/2014",
             "price": "$172.20"
         },
@@ -1275,7 +1275,7 @@
             "customer": "Dorothy Franklin",
             "job": "web design",
             "email": "dfranklin3j@baidu.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/1/2014",
             "price": "$207.05"
         },
@@ -1285,7 +1285,7 @@
             "customer": "Aaron Wells",
             "job": "programming",
             "email": "awells3k@addtoany.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/13/2015",
             "price": "$345.53"
         },
@@ -1295,7 +1295,7 @@
             "customer": "Larry Perkins",
             "job": "web design",
             "email": "lperkins3l@yale.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/2/2015",
             "price": "$202.96"
         },
@@ -1305,7 +1305,7 @@
             "customer": "Phillip Fernandez",
             "job": "crm service",
             "email": "pfernandez3m@tinyurl.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/4/2015",
             "price": "$328.49"
         },
@@ -1315,7 +1315,7 @@
             "customer": "Samuel Reynolds",
             "job": "web design",
             "email": "sreynolds3n@edublogs.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/5/2015",
             "price": "$261.41"
         },
@@ -1325,7 +1325,7 @@
             "customer": "Irene Griffin",
             "job": "branding",
             "email": "igriffin3o@123-reg.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/5/2015",
             "price": "$209.54"
         },
@@ -1335,7 +1335,7 @@
             "customer": "Anna Harper",
             "job": "photoshop",
             "email": "aharper3p@spotify.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/4/2015",
             "price": "$137.53"
         },
@@ -1345,7 +1345,7 @@
             "customer": "Jesse Miller",
             "job": "graphic design",
             "email": "jmiller3q@usda.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/1/2015",
             "price": "$408.18"
         },
@@ -1355,7 +1355,7 @@
             "customer": "Eugene Ortiz",
             "job": "branding",
             "email": "eortiz3r@privacy.gov.au",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/3/2015",
             "price": "$341.50"
         },
@@ -1365,7 +1365,7 @@
             "customer": "Karen Fox",
             "job": "crm service",
             "email": "kfox3s@g.co",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/31/2015",
             "price": "$219.11"
         },
@@ -1375,7 +1375,7 @@
             "customer": "Edward Howell",
             "job": "php website",
             "email": "ehowell3t@mit.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/4/2015",
             "price": "$110.90"
         },
@@ -1385,7 +1385,7 @@
             "customer": "Anna Cunningham",
             "job": "social media marketing",
             "email": "acunningham3u@springer.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/18/2014",
             "price": "$455.75"
         },
@@ -1395,7 +1395,7 @@
             "customer": "Anthony Brown",
             "job": "marketing",
             "email": "abrown3v@myspace.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/9/2015",
             "price": "$235.77"
         },
@@ -1405,7 +1405,7 @@
             "customer": "Billy Morgan",
             "job": "social media marketing",
             "email": "bmorgan3w@cafepress.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/11/2014",
             "price": "$123.15"
         },
@@ -1415,7 +1415,7 @@
             "customer": "Doris Morales",
             "job": "web design",
             "email": "dmorales3x@npr.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/4/2015",
             "price": "$444.49"
         },
@@ -1425,7 +1425,7 @@
             "customer": "Virginia Wallace",
             "job": "crm service",
             "email": "vwallace3y@craigslist.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/3/2015",
             "price": "$397.32"
         },
@@ -1435,7 +1435,7 @@
             "customer": "Samuel Ward",
             "job": "wordpress website",
             "email": "sward3z@youtube.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/22/2015",
             "price": "$446.67"
         },
@@ -1445,7 +1445,7 @@
             "customer": "Billy Sanders",
             "job": "social media marketing",
             "email": "bsanders40@thetimes.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/11/2015",
             "price": "$147.63"
         },
@@ -1455,7 +1455,7 @@
             "customer": "Michelle Wallace",
             "job": "crm service",
             "email": "mwallace41@archive.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/4/2015",
             "price": "$246.39"
         },
@@ -1465,7 +1465,7 @@
             "customer": "Julie Hunter",
             "job": "social media marketing",
             "email": "jhunter42@amazon.de",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/7/2015",
             "price": "$247.47"
         },
@@ -1475,7 +1475,7 @@
             "customer": "Janet Rivera",
             "job": "wordpress website",
             "email": "jrivera43@ucla.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/15/2015",
             "price": "$167.24"
         },
@@ -1485,7 +1485,7 @@
             "customer": "Sarah Watkins",
             "job": "graphic design",
             "email": "swatkins44@theguardian.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/15/2015",
             "price": "$473.87"
         },
@@ -1495,7 +1495,7 @@
             "customer": "Mildred Vasquez",
             "job": "logo design",
             "email": "mvasquez45@mozilla.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/12/2015",
             "price": "$248.31"
         },
@@ -1505,7 +1505,7 @@
             "customer": "Teresa Wallace",
             "job": "branding",
             "email": "twallace46@youku.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/25/2015",
             "price": "$491.16"
         },
@@ -1515,7 +1515,7 @@
             "customer": "Linda Fernandez",
             "job": "web design",
             "email": "lfernandez47@parallels.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/12/2015",
             "price": "$366.08"
         },
@@ -1525,7 +1525,7 @@
             "customer": "Eugene Meyer",
             "job": "web design",
             "email": "emeyer48@virginia.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/26/2015",
             "price": "$338.08"
         },
@@ -1535,7 +1535,7 @@
             "customer": "Eugene Chavez",
             "job": "logo design",
             "email": "echavez49@cyberchimps.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/17/2015",
             "price": "$468.93"
         },
@@ -1545,7 +1545,7 @@
             "customer": "Samuel Boyd",
             "job": "social media marketing",
             "email": "sboyd4a@yellowbook.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/9/2015",
             "price": "$270.21"
         },
@@ -1555,7 +1555,7 @@
             "customer": "Ruby King",
             "job": "photoshop",
             "email": "rking4b@ed.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/14/2015",
             "price": "$351.52"
         },
@@ -1565,7 +1565,7 @@
             "customer": "Norma Reed",
             "job": "branding",
             "email": "nreed4c@a8.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/10/2015",
             "price": "$191.27"
         },
@@ -1575,7 +1575,7 @@
             "customer": "Scott Dean",
             "job": "social media marketing",
             "email": "sdean4d@nyu.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/21/2015",
             "price": "$201.45"
         },
@@ -1585,7 +1585,7 @@
             "customer": "Willie Stewart",
             "job": "photoshop",
             "email": "wstewart4e@github.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/26/2015",
             "price": "$172.22"
         },
@@ -1595,7 +1595,7 @@
             "customer": "Tammy Robinson",
             "job": "photoshop",
             "email": "trobinson4f@slideshare.net",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/9/2015",
             "price": "$373.73"
         },
@@ -1605,7 +1605,7 @@
             "customer": "Jacqueline Chavez",
             "job": "social media marketing",
             "email": "jchavez4g@privacy.gov.au",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/8/2015",
             "price": "$238.03"
         },
@@ -1615,7 +1615,7 @@
             "customer": "Anne Freeman",
             "job": "graphic design",
             "email": "afreeman4h@ning.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/23/2015",
             "price": "$352.78"
         },
@@ -1625,7 +1625,7 @@
             "customer": "Sharon Gray",
             "job": "web design",
             "email": "sgray4i@twitter.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/27/2015",
             "price": "$272.46"
         },
@@ -1635,7 +1635,7 @@
             "customer": "Shirley Kelly",
             "job": "logo design",
             "email": "skelly4j@g.co",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/7/2015",
             "price": "$139.34"
         },
@@ -1645,7 +1645,7 @@
             "customer": "Kathleen Harvey",
             "job": "branding",
             "email": "kharvey4k@amazon.de",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/28/2015",
             "price": "$334.51"
         },
@@ -1655,7 +1655,7 @@
             "customer": "Randy Bennett",
             "job": "logo design",
             "email": "rbennett4l@reuters.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/3/2015",
             "price": "$123.63"
         },
@@ -1665,7 +1665,7 @@
             "customer": "Kenneth Bryant",
             "job": "marketing",
             "email": "kbryant4m@state.tx.us",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/1/2015",
             "price": "$370.73"
         },
@@ -1675,7 +1675,7 @@
             "customer": "Norma Duncan",
             "job": "crm service",
             "email": "nduncan4n@usda.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/11/2015",
             "price": "$146.40"
         },
@@ -1685,7 +1685,7 @@
             "customer": "Nicholas Jacobs",
             "job": "branding",
             "email": "njacobs4o@lulu.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/7/2015",
             "price": "$168.62"
         },
@@ -1695,7 +1695,7 @@
             "customer": "Larry Marshall",
             "job": "wordpress website",
             "email": "lmarshall4p@shop-pro.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/31/2015",
             "price": "$111.98"
         },
@@ -1705,7 +1705,7 @@
             "customer": "Ann Brooks",
             "job": "programming",
             "email": "abrooks4q@eepurl.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/17/2015",
             "price": "$265.81"
         },
@@ -1715,7 +1715,7 @@
             "customer": "Victor Garcia",
             "job": "crm service",
             "email": "vgarcia4r@ftc.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/3/2014",
             "price": "$164.08"
         },
@@ -1725,7 +1725,7 @@
             "customer": "Heather Miller",
             "job": "web design",
             "email": "hmiller4s@fotki.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/1/2015",
             "price": "$114.41"
         },
@@ -1735,7 +1735,7 @@
             "customer": "Walter Payne",
             "job": "marketing",
             "email": "wpayne4t@google.nl",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/8/2015",
             "price": "$256.30"
         },
@@ -1745,7 +1745,7 @@
             "customer": "Ann Wagner",
             "job": "social media marketing",
             "email": "awagner4u@yellowbook.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/27/2015",
             "price": "$390.06"
         },
@@ -1755,7 +1755,7 @@
             "customer": "Anthony Sanders",
             "job": "photoshop",
             "email": "asanders4v@technorati.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/4/2015",
             "price": "$190.47"
         },
@@ -1765,7 +1765,7 @@
             "customer": "Teresa Holmes",
             "job": "wordpress website",
             "email": "tholmes4w@msn.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/22/2015",
             "price": "$263.92"
         },
@@ -1775,7 +1775,7 @@
             "customer": "Jessica Lee",
             "job": "social media marketing",
             "email": "jlee4x@weather.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/8/2015",
             "price": "$140.80"
         },
@@ -1785,7 +1785,7 @@
             "customer": "Anna Gray",
             "job": "graphic design",
             "email": "agray4y@fc2.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/20/2015",
             "price": "$443.22"
         },
@@ -1795,7 +1795,7 @@
             "customer": "Wanda Garcia",
             "job": "wordpress website",
             "email": "wgarcia4z@aol.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/18/2015",
             "price": "$380.41"
         },
@@ -1805,7 +1805,7 @@
             "customer": "Norma Hansen",
             "job": "crm service",
             "email": "nhansen50@netvibes.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/9/2015",
             "price": "$110.62"
         },
@@ -1815,7 +1815,7 @@
             "customer": "Jonathan Wells",
             "job": "social media marketing",
             "email": "jwells51@goo.ne.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/29/2015",
             "price": "$380.70"
         },
@@ -1825,7 +1825,7 @@
             "customer": "Jonathan Wright",
             "job": "crm service",
             "email": "jwright52@va.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/15/2015",
             "price": "$328.41"
         },
@@ -1835,7 +1835,7 @@
             "customer": "Paula Phillips",
             "job": "web design",
             "email": "pphillips53@ning.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/22/2015",
             "price": "$334.95"
         },
@@ -1845,7 +1845,7 @@
             "customer": "Mark Jacobs",
             "job": "programming",
             "email": "mjacobs54@mapy.cz",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/5/2015",
             "price": "$452.86"
         },
@@ -1855,7 +1855,7 @@
             "customer": "Marie Walker",
             "job": "marketing",
             "email": "mwalker55@sogou.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/28/2015",
             "price": "$422.94"
         },
@@ -1865,7 +1865,7 @@
             "customer": "Amy Thompson",
             "job": "programming",
             "email": "athompson56@oracle.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/20/2015",
             "price": "$381.04"
         },
@@ -1875,7 +1875,7 @@
             "customer": "Sean Burns",
             "job": "web design",
             "email": "sburns57@blogspot.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/16/2015",
             "price": "$150.64"
         },
@@ -1885,7 +1885,7 @@
             "customer": "Joshua Robinson",
             "job": "php website",
             "email": "jrobinson58@163.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/12/2015",
             "price": "$183.79"
         },
@@ -1895,7 +1895,7 @@
             "customer": "Christina Jordan",
             "job": "graphic design",
             "email": "cjordan59@chicagotribune.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/23/2015",
             "price": "$499.76"
         },
@@ -1905,7 +1905,7 @@
             "customer": "Gregory Peters",
             "job": "social media marketing",
             "email": "gpeters5a@hatena.ne.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/8/2015",
             "price": "$100.82"
         },
@@ -1915,7 +1915,7 @@
             "customer": "Steve Kim",
             "job": "SEO and SEM",
             "email": "skim5b@nymag.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/12/2014",
             "price": "$369.93"
         },
@@ -1925,7 +1925,7 @@
             "customer": "Kathryn Patterson",
             "job": "php website",
             "email": "kpatterson5c@imageshack.us",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/31/2015",
             "price": "$168.03"
         },
@@ -1934,8 +1934,8 @@
             "number": "68788-9506",
             "customer": "Stephanie Mendoza",
             "job": "marketing",
-            "email": "smendoza5d@nbcper-hrs.s.com",
-            "status": "per-hrs.",
+            "email": "smendoza5d@nbcSilver s.com",
+            "status": "Silver ",
             "date": "6/4/2015",
             "price": "$300.55"
         },
@@ -1945,7 +1945,7 @@
             "customer": "Fred Peters",
             "job": "logo design",
             "email": "fpeters5e@artisteer.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/13/2015",
             "price": "$420.34"
         },
@@ -1955,7 +1955,7 @@
             "customer": "William Hicks",
             "job": "marketing",
             "email": "whicks5f@angelfire.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/6/2015",
             "price": "$219.09"
         },
@@ -1965,7 +1965,7 @@
             "customer": "Theresa Parker",
             "job": "SEO and SEM",
             "email": "tparker5g@blogtalkradio.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/24/2014",
             "price": "$136.95"
         },
@@ -1975,7 +1975,7 @@
             "customer": "Paula Wilson",
             "job": "SEO and SEM",
             "email": "pwilson5h@indiatimes.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/18/2015",
             "price": "$221.08"
         },
@@ -1985,7 +1985,7 @@
             "customer": "Susan Medina",
             "job": "php website",
             "email": "smedina5i@wix.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/20/2015",
             "price": "$329.10"
         },
@@ -1995,7 +1995,7 @@
             "customer": "Jacqueline Ward",
             "job": "programming",
             "email": "jward5j@storify.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/18/2015",
             "price": "$128.98"
         },
@@ -2004,8 +2004,8 @@
             "number": "56136-002",
             "customer": "Richard Austin",
             "job": "logo design",
-            "email": "raustin5k@foxper-hrs.s.com",
-            "status": "bi-monthly",
+            "email": "raustin5k@foxSilver s.com",
+            "status": "Premium ",
             "date": "9/23/2015",
             "price": "$372.56"
         },
@@ -2015,7 +2015,7 @@
             "customer": "Anthony Thompson",
             "job": "programming",
             "email": "athompson5l@g.co",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/12/2015",
             "price": "$170.05"
         },
@@ -2025,7 +2025,7 @@
             "customer": "Louis Carroll",
             "job": "marketing",
             "email": "lcarroll5m@apple.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/11/2015",
             "price": "$124.51"
         },
@@ -2035,7 +2035,7 @@
             "customer": "Roger Walker",
             "job": "crm service",
             "email": "rwalker5n@ibm.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/24/2015",
             "price": "$145.31"
         },
@@ -2045,7 +2045,7 @@
             "customer": "Patrick Lopez",
             "job": "php website",
             "email": "plopez5o@blogs.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/4/2015",
             "price": "$199.71"
         },
@@ -2055,7 +2055,7 @@
             "customer": "Christine Taylor",
             "job": "programming",
             "email": "ctaylor5p@godaddy.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/27/2015",
             "price": "$322.23"
         },
@@ -2065,7 +2065,7 @@
             "customer": "Beverly Ray",
             "job": "crm service",
             "email": "bray5q@sogou.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/10/2015",
             "price": "$412.36"
         },
@@ -2075,7 +2075,7 @@
             "customer": "David Brown",
             "job": "web design",
             "email": "dbrown5r@linkedin.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/21/2015",
             "price": "$180.26"
         },
@@ -2085,7 +2085,7 @@
             "customer": "Shirley Garza",
             "job": "wordpress website",
             "email": "sgarza5s@ox.ac.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/3/2015",
             "price": "$400.71"
         },
@@ -2095,7 +2095,7 @@
             "customer": "Larry Bennett",
             "job": "logo design",
             "email": "lbennett5t@ustream.tv",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/25/2015",
             "price": "$169.05"
         },
@@ -2105,7 +2105,7 @@
             "customer": "Craig Webb",
             "job": "logo design",
             "email": "cwebb5u@zdnet.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/13/2015",
             "price": "$388.67"
         },
@@ -2115,7 +2115,7 @@
             "customer": "Stephen Franklin",
             "job": "branding",
             "email": "sfranklin5v@mlb.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/17/2015",
             "price": "$483.10"
         },
@@ -2125,7 +2125,7 @@
             "customer": "Christine Wallace",
             "job": "wordpress website",
             "email": "cwallace5w@google.nl",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/12/2014",
             "price": "$346.26"
         },
@@ -2134,8 +2134,8 @@
             "number": "62037-777",
             "customer": "Earl Austin",
             "job": "programming",
-            "email": "eaustin5x@foxper-hrs.s.com",
-            "status": "bi-monthly",
+            "email": "eaustin5x@foxSilver s.com",
+            "status": "Premium ",
             "date": "4/26/2015",
             "price": "$110.35"
         },
@@ -2145,7 +2145,7 @@
             "customer": "Diane Medina",
             "job": "marketing",
             "email": "dmedina5y@issuu.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/11/2015",
             "price": "$481.13"
         },
@@ -2155,7 +2155,7 @@
             "customer": "Marie Powell",
             "job": "photoshop",
             "email": "mpowell5z@chronoengine.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/28/2015",
             "price": "$496.50"
         },
@@ -2165,7 +2165,7 @@
             "customer": "Christine Black",
             "job": "logo design",
             "email": "cblack60@parallels.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/9/2015",
             "price": "$292.50"
         },
@@ -2175,7 +2175,7 @@
             "customer": "Andrea Patterson",
             "job": "marketing",
             "email": "apatterson61@edublogs.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/28/2015",
             "price": "$354.31"
         },
@@ -2185,7 +2185,7 @@
             "customer": "Ronald Black",
             "job": "wordpress website",
             "email": "rblack62@ezinearticles.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/6/2015",
             "price": "$145.32"
         },
@@ -2195,7 +2195,7 @@
             "customer": "Janet Bryant",
             "job": "web design",
             "email": "jbryant63@cafepress.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/24/2015",
             "price": "$235.75"
         },
@@ -2205,7 +2205,7 @@
             "customer": "Stephanie Bailey",
             "job": "photoshop",
             "email": "sbailey64@elpais.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/10/2015",
             "price": "$482.15"
         },
@@ -2215,7 +2215,7 @@
             "customer": "Melissa Hunt",
             "job": "crm service",
             "email": "mhunt65@infoseek.co.jp",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/19/2015",
             "price": "$490.85"
         },
@@ -2225,7 +2225,7 @@
             "customer": "Irene Anderson",
             "job": "marketing",
             "email": "ianderson66@cbc.ca",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/14/2014",
             "price": "$150.30"
         },
@@ -2235,7 +2235,7 @@
             "customer": "Paula Fields",
             "job": "wordpress website",
             "email": "pfields67@ftc.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/16/2014",
             "price": "$391.08"
         },
@@ -2245,7 +2245,7 @@
             "customer": "Maria Mcdonald",
             "job": "wordpress website",
             "email": "mmcdonald68@mit.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/6/2015",
             "price": "$153.34"
         },
@@ -2255,7 +2255,7 @@
             "customer": "Jeremy Brooks",
             "job": "crm service",
             "email": "jbrooks69@blogs.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/20/2015",
             "price": "$198.69"
         },
@@ -2265,7 +2265,7 @@
             "customer": "Jerry Meyer",
             "job": "marketing",
             "email": "jmeyer6a@google.com.br",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/3/2015",
             "price": "$427.77"
         },
@@ -2275,7 +2275,7 @@
             "customer": "Randy Bennett",
             "job": "php website",
             "email": "rbennett6b@sohu.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/28/2015",
             "price": "$354.75"
         },
@@ -2285,7 +2285,7 @@
             "customer": "Joan Romero",
             "job": "SEO and SEM",
             "email": "jromero6c@macromedia.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/6/2015",
             "price": "$499.14"
         },
@@ -2295,7 +2295,7 @@
             "customer": "Denise Adams",
             "job": "programming",
             "email": "dadams6d@com.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/10/2015",
             "price": "$323.66"
         },
@@ -2305,7 +2305,7 @@
             "customer": "Raymond Freeman",
             "job": "graphic design",
             "email": "rfreeman6e@state.tx.us",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/31/2015",
             "price": "$217.64"
         },
@@ -2315,7 +2315,7 @@
             "customer": "Raymond Holmes",
             "job": "web design",
             "email": "rholmes6f@java.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/24/2015",
             "price": "$278.72"
         },
@@ -2325,7 +2325,7 @@
             "customer": "Alan Gomez",
             "job": "branding",
             "email": "agomez6g@list-manage.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/18/2015",
             "price": "$348.75"
         },
@@ -2335,7 +2335,7 @@
             "customer": "Lois Hernandez",
             "job": "SEO and SEM",
             "email": "lhernandez6h@msu.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/16/2015",
             "price": "$473.62"
         },
@@ -2345,7 +2345,7 @@
             "customer": "Terry Bell",
             "job": "wordpress website",
             "email": "tbell6i@printfriendly.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/22/2015",
             "price": "$298.54"
         },
@@ -2355,7 +2355,7 @@
             "customer": "Scott Kim",
             "job": "SEO and SEM",
             "email": "skim6j@vk.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/26/2015",
             "price": "$489.07"
         },
@@ -2365,7 +2365,7 @@
             "customer": "Juan Spencer",
             "job": "wordpress website",
             "email": "jspencer6k@istockphoto.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/31/2015",
             "price": "$308.64"
         },
@@ -2375,7 +2375,7 @@
             "customer": "Joan Lee",
             "job": "graphic design",
             "email": "jlee6l@people.com.cn",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/2/2015",
             "price": "$189.25"
         },
@@ -2385,7 +2385,7 @@
             "customer": "Evelyn Perry",
             "job": "photoshop",
             "email": "eperry6m@google.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/4/2015",
             "price": "$367.04"
         },
@@ -2395,7 +2395,7 @@
             "customer": "Gerald Baker",
             "job": "crm service",
             "email": "gbaker6n@deliciousdays.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/12/2015",
             "price": "$151.28"
         },
@@ -2405,7 +2405,7 @@
             "customer": "Edward Richardson",
             "job": "graphic design",
             "email": "erichardson6o@engadget.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/25/2015",
             "price": "$167.37"
         },
@@ -2415,7 +2415,7 @@
             "customer": "Jonathan Oliver",
             "job": "graphic design",
             "email": "joliver6p@friendfeed.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/4/2015",
             "price": "$170.71"
         },
@@ -2425,7 +2425,7 @@
             "customer": "Rose Ross",
             "job": "photoshop",
             "email": "rross6q@buzzfeed.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/17/2015",
             "price": "$231.05"
         },
@@ -2435,7 +2435,7 @@
             "customer": "Tammy Andrews",
             "job": "crm service",
             "email": "tandrews6r@feedburner.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/10/2015",
             "price": "$226.38"
         },
@@ -2445,7 +2445,7 @@
             "customer": "Walter King",
             "job": "graphic design",
             "email": "wking6s@surveymonkey.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/21/2015",
             "price": "$316.01"
         },
@@ -2455,7 +2455,7 @@
             "customer": "Judy Gomez",
             "job": "graphic design",
             "email": "jgomez6t@youtube.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/22/2015",
             "price": "$196.72"
         },
@@ -2465,7 +2465,7 @@
             "customer": "Gerald Coleman",
             "job": "logo design",
             "email": "gcoleman6u@eventbrite.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/12/2015",
             "price": "$489.02"
         },
@@ -2475,7 +2475,7 @@
             "customer": "Catherine Brown",
             "job": "php website",
             "email": "cbrown6v@time.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/25/2014",
             "price": "$468.86"
         },
@@ -2485,7 +2485,7 @@
             "customer": "Juan Wallace",
             "job": "crm service",
             "email": "jwallace6w@utexas.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/16/2015",
             "price": "$396.52"
         },
@@ -2495,7 +2495,7 @@
             "customer": "Brian Wells",
             "job": "social media marketing",
             "email": "bwells6x@e-recht24.de",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/14/2015",
             "price": "$391.40"
         },
@@ -2505,7 +2505,7 @@
             "customer": "Paul Daniels",
             "job": "crm service",
             "email": "pdaniels6y@geocities.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/11/2015",
             "price": "$442.57"
         },
@@ -2515,7 +2515,7 @@
             "customer": "Earl Gray",
             "job": "crm service",
             "email": "egray6z@wix.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/1/2015",
             "price": "$101.40"
         },
@@ -2525,7 +2525,7 @@
             "customer": "Norma Webb",
             "job": "web design",
             "email": "nwebb70@dot.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/21/2015",
             "price": "$189.87"
         },
@@ -2535,7 +2535,7 @@
             "customer": "Tina Long",
             "job": "branding",
             "email": "tlong71@reuters.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/4/2015",
             "price": "$153.38"
         },
@@ -2545,7 +2545,7 @@
             "customer": "Andrew Greene",
             "job": "marketing",
             "email": "agreene72@ow.ly",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/11/2015",
             "price": "$412.59"
         },
@@ -2555,7 +2555,7 @@
             "customer": "Denise Dean",
             "job": "branding",
             "email": "ddean73@bluehost.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/24/2015",
             "price": "$393.12"
         },
@@ -2565,7 +2565,7 @@
             "customer": "Lawrence Franklin",
             "job": "SEO and SEM",
             "email": "lfranklin74@clickbank.net",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/20/2015",
             "price": "$131.33"
         },
@@ -2575,7 +2575,7 @@
             "customer": "Joseph Campbell",
             "job": "php website",
             "email": "jcampbell75@deliciousdays.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/16/2015",
             "price": "$282.91"
         },
@@ -2585,7 +2585,7 @@
             "customer": "Billy Woods",
             "job": "logo design",
             "email": "bwoods76@noaa.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/5/2015",
             "price": "$416.54"
         },
@@ -2595,7 +2595,7 @@
             "customer": "Jesse Dunn",
             "job": "php website",
             "email": "jdunn77@senate.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/21/2015",
             "price": "$352.48"
         },
@@ -2605,7 +2605,7 @@
             "customer": "Samuel Miller",
             "job": "social media marketing",
             "email": "smiller78@wordpress.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/7/2015",
             "price": "$393.89"
         },
@@ -2615,7 +2615,7 @@
             "customer": "Heather Lopez",
             "job": "logo design",
             "email": "hlopez79@umich.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/22/2015",
             "price": "$218.63"
         },
@@ -2625,7 +2625,7 @@
             "customer": "Benjamin Wilson",
             "job": "marketing",
             "email": "bwilson7a@yelp.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/28/2015",
             "price": "$299.64"
         },
@@ -2635,7 +2635,7 @@
             "customer": "Norma Hamilton",
             "job": "marketing",
             "email": "nhamilton7b@chronoengine.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/25/2015",
             "price": "$266.97"
         },
@@ -2645,7 +2645,7 @@
             "customer": "Lori Knight",
             "job": "web design",
             "email": "lknight7c@webmd.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/26/2015",
             "price": "$423.64"
         },
@@ -2655,7 +2655,7 @@
             "customer": "Craig Turner",
             "job": "crm service",
             "email": "cturner7d@smh.com.au",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/15/2015",
             "price": "$250.24"
         },
@@ -2665,7 +2665,7 @@
             "customer": "Shirley Gardner",
             "job": "wordpress website",
             "email": "sgardner7e@upenn.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/18/2014",
             "price": "$386.94"
         },
@@ -2675,7 +2675,7 @@
             "customer": "Carl Greene",
             "job": "marketing",
             "email": "cgreene7f@patch.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/27/2015",
             "price": "$331.74"
         },
@@ -2685,7 +2685,7 @@
             "customer": "Bonnie Hughes",
             "job": "wordpress website",
             "email": "bhughes7g@bbb.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/24/2015",
             "price": "$169.85"
         },
@@ -2695,7 +2695,7 @@
             "customer": "Sarah Marshall",
             "job": "logo design",
             "email": "smarshall7h@discovery.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/23/2015",
             "price": "$159.59"
         },
@@ -2705,7 +2705,7 @@
             "customer": "Lawrence Meyer",
             "job": "web design",
             "email": "lmeyer7i@ucoz.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/7/2015",
             "price": "$448.92"
         },
@@ -2715,7 +2715,7 @@
             "customer": "Russell Stewart",
             "job": "wordpress website",
             "email": "rstewart7j@nasa.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/26/2015",
             "price": "$152.39"
         },
@@ -2725,7 +2725,7 @@
             "customer": "Ernest Gordon",
             "job": "logo design",
             "email": "egordon7k@businesswire.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/14/2015",
             "price": "$228.44"
         },
@@ -2735,7 +2735,7 @@
             "customer": "Elizabeth Wilson",
             "job": "crm service",
             "email": "ewilson7l@hugedomains.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/9/2015",
             "price": "$234.85"
         },
@@ -2745,7 +2745,7 @@
             "customer": "Paula Day",
             "job": "php website",
             "email": "pday7m@mozilla.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/26/2015",
             "price": "$362.40"
         },
@@ -2755,7 +2755,7 @@
             "customer": "Jennifer Johnson",
             "job": "graphic design",
             "email": "jjohnson7n@geocities.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/14/2015",
             "price": "$394.45"
         },
@@ -2765,7 +2765,7 @@
             "customer": "Terry Howell",
             "job": "photoshop",
             "email": "thowell7o@dedecms.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/22/2015",
             "price": "$374.58"
         },
@@ -2775,7 +2775,7 @@
             "customer": "Emily Elliott",
             "job": "graphic design",
             "email": "eelliott7p@walmart.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/23/2015",
             "price": "$229.48"
         },
@@ -2785,7 +2785,7 @@
             "customer": "Keith Little",
             "job": "photoshop",
             "email": "klittle7q@domainmarket.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/22/2015",
             "price": "$418.29"
         },
@@ -2795,7 +2795,7 @@
             "customer": "Raymond Collins",
             "job": "graphic design",
             "email": "rcollins7r@youtu.be",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/27/2015",
             "price": "$126.93"
         },
@@ -2805,7 +2805,7 @@
             "customer": "Kathleen Hall",
             "job": "logo design",
             "email": "khall7s@hatena.ne.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/30/2015",
             "price": "$146.81"
         },
@@ -2815,7 +2815,7 @@
             "customer": "Janice Morgan",
             "job": "marketing",
             "email": "jmorgan7t@statcounter.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/3/2015",
             "price": "$397.21"
         },
@@ -2825,7 +2825,7 @@
             "customer": "Gregory James",
             "job": "marketing",
             "email": "gjames7u@wikia.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/17/2015",
             "price": "$310.18"
         },
@@ -2835,7 +2835,7 @@
             "customer": "Albert Nelson",
             "job": "php website",
             "email": "anelson7v@drupal.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/9/2015",
             "price": "$450.30"
         },
@@ -2845,7 +2845,7 @@
             "customer": "Lawrence Ross",
             "job": "programming",
             "email": "lross7w@oracle.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/12/2015",
             "price": "$381.64"
         },
@@ -2855,7 +2855,7 @@
             "customer": "Laura Perry",
             "job": "php website",
             "email": "lperry7x@reuters.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/30/2014",
             "price": "$135.32"
         },
@@ -2865,7 +2865,7 @@
             "customer": "Andrew Evans",
             "job": "wordpress website",
             "email": "aevans7y@pcworld.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/15/2015",
             "price": "$387.57"
         },
@@ -2875,7 +2875,7 @@
             "customer": "Jose Spencer",
             "job": "logo design",
             "email": "jspencer7z@mit.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/29/2015",
             "price": "$360.84"
         },
@@ -2885,7 +2885,7 @@
             "customer": "Debra Sanders",
             "job": "logo design",
             "email": "dsanders80@independent.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/10/2015",
             "price": "$491.16"
         },
@@ -2895,7 +2895,7 @@
             "customer": "Theresa Ryan",
             "job": "social media marketing",
             "email": "tryan81@telegraph.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/13/2015",
             "price": "$426.96"
         },
@@ -2905,7 +2905,7 @@
             "customer": "Andrew Black",
             "job": "web design",
             "email": "ablack82@house.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/25/2015",
             "price": "$383.79"
         },
@@ -2915,7 +2915,7 @@
             "customer": "Anthony Sanders",
             "job": "SEO and SEM",
             "email": "asanders83@furl.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/2/2014",
             "price": "$485.66"
         },
@@ -2925,7 +2925,7 @@
             "customer": "Lisa Burton",
             "job": "SEO and SEM",
             "email": "lburton84@nifty.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/9/2015",
             "price": "$462.06"
         },
@@ -2935,7 +2935,7 @@
             "customer": "Julie Sanders",
             "job": "social media marketing",
             "email": "jsanders85@godaddy.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/1/2015",
             "price": "$366.91"
         },
@@ -2945,7 +2945,7 @@
             "customer": "Roy Schmidt",
             "job": "programming",
             "email": "rschmidt86@biglobe.ne.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/10/2015",
             "price": "$412.40"
         },
@@ -2955,7 +2955,7 @@
             "customer": "Benjamin Johnson",
             "job": "crm service",
             "email": "bjohnson87@google.co.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/11/2015",
             "price": "$327.39"
         },
@@ -2965,7 +2965,7 @@
             "customer": "Matthew Bowman",
             "job": "wordpress website",
             "email": "mbowman88@reference.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/22/2015",
             "price": "$240.92"
         },
@@ -2975,7 +2975,7 @@
             "customer": "Denise Hughes",
             "job": "logo design",
             "email": "dhughes89@goo.ne.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/8/2014",
             "price": "$279.71"
         },
@@ -2985,7 +2985,7 @@
             "customer": "Dennis Frazier",
             "job": "branding",
             "email": "dfrazier8a@latimes.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/27/2015",
             "price": "$240.48"
         },
@@ -2995,7 +2995,7 @@
             "customer": "David Hansen",
             "job": "marketing",
             "email": "dhansen8b@sun.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/11/2015",
             "price": "$374.87"
         },
@@ -3005,7 +3005,7 @@
             "customer": "Marilyn Webb",
             "job": "graphic design",
             "email": "mwebb8c@odnoklassniki.ru",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/5/2015",
             "price": "$455.20"
         },
@@ -3015,7 +3015,7 @@
             "customer": "Phyllis Bailey",
             "job": "logo design",
             "email": "pbailey8d@vistaprint.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/27/2015",
             "price": "$405.25"
         },
@@ -3025,7 +3025,7 @@
             "customer": "Barbara Johnson",
             "job": "branding",
             "email": "bjohnson8e@qq.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/25/2015",
             "price": "$286.64"
         },
@@ -3035,7 +3035,7 @@
             "customer": "Christina Russell",
             "job": "crm service",
             "email": "crussell8f@japanpost.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/21/2015",
             "price": "$109.31"
         },
@@ -3045,7 +3045,7 @@
             "customer": "Anna Stanley",
             "job": "social media marketing",
             "email": "astanley8g@bing.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/26/2015",
             "price": "$282.88"
         },
@@ -3055,7 +3055,7 @@
             "customer": "Anthony Davis",
             "job": "photoshop",
             "email": "adavis8h@smh.com.au",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/8/2015",
             "price": "$188.05"
         },
@@ -3065,7 +3065,7 @@
             "customer": "Amy Nichols",
             "job": "php website",
             "email": "anichols8i@jugem.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/20/2015",
             "price": "$106.31"
         },
@@ -3075,7 +3075,7 @@
             "customer": "Bruce Chapman",
             "job": "photoshop",
             "email": "bchapman8j@answers.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/30/2015",
             "price": "$103.18"
         },
@@ -3085,7 +3085,7 @@
             "customer": "Jonathan Alexander",
             "job": "photoshop",
             "email": "jalexander8k@bloomberg.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/8/2015",
             "price": "$115.68"
         },
@@ -3095,7 +3095,7 @@
             "customer": "Ralph Olson",
             "job": "marketing",
             "email": "rolson8l@hatena.ne.jp",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/19/2014",
             "price": "$493.87"
         },
@@ -3105,7 +3105,7 @@
             "customer": "Thomas Simmons",
             "job": "programming",
             "email": "tsimmons8m@gmpg.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/6/2015",
             "price": "$407.75"
         },
@@ -3115,7 +3115,7 @@
             "customer": "Joyce Lane",
             "job": "crm service",
             "email": "jlane8n@fc2.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/3/2015",
             "price": "$322.77"
         },
@@ -3125,7 +3125,7 @@
             "customer": "Wanda Cook",
             "job": "graphic design",
             "email": "wcook8o@cam.ac.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/22/2015",
             "price": "$125.18"
         },
@@ -3135,7 +3135,7 @@
             "customer": "Phillip Gilbert",
             "job": "marketing",
             "email": "pgilbert8p@spotify.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/17/2015",
             "price": "$313.10"
         },
@@ -3145,7 +3145,7 @@
             "customer": "Joan Nichols",
             "job": "SEO and SEM",
             "email": "jnichols8q@mail.ru",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/2/2015",
             "price": "$203.23"
         },
@@ -3155,7 +3155,7 @@
             "customer": "Roy Berry",
             "job": "graphic design",
             "email": "rberry8r@pcworld.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/29/2015",
             "price": "$277.21"
         },
@@ -3165,7 +3165,7 @@
             "customer": "Amy Richards",
             "job": "SEO and SEM",
             "email": "arichards8s@washingtonpost.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/10/2015",
             "price": "$135.21"
         },
@@ -3175,7 +3175,7 @@
             "customer": "George Garcia",
             "job": "SEO and SEM",
             "email": "ggarcia8t@lulu.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/3/2015",
             "price": "$153.54"
         },
@@ -3185,7 +3185,7 @@
             "customer": "Walter Miller",
             "job": "marketing",
             "email": "wmiller8u@blinklist.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/22/2015",
             "price": "$101.70"
         },
@@ -3195,7 +3195,7 @@
             "customer": "Janet Lawrence",
             "job": "graphic design",
             "email": "jlawrence8v@booking.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/7/2015",
             "price": "$106.92"
         },
@@ -3205,7 +3205,7 @@
             "customer": "Ryan Collins",
             "job": "php website",
             "email": "rcollins8w@apple.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/12/2015",
             "price": "$333.39"
         },
@@ -3214,8 +3214,8 @@
             "number": "21695-945",
             "customer": "Sharon Wells",
             "job": "marketing",
-            "email": "swells8x@cbsper-hrs.s.com",
-            "status": "per-hrs.",
+            "email": "swells8x@cbsSilver s.com",
+            "status": "Silver ",
             "date": "7/6/2015",
             "price": "$249.06"
         },
@@ -3225,7 +3225,7 @@
             "customer": "Kathleen Wilson",
             "job": "wordpress website",
             "email": "kwilson8y@freewebs.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/26/2015",
             "price": "$482.62"
         },
@@ -3235,7 +3235,7 @@
             "customer": "Juan Roberts",
             "job": "marketing",
             "email": "jroberts8z@bbc.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/31/2015",
             "price": "$258.68"
         },
@@ -3245,7 +3245,7 @@
             "customer": "Janice Peterson",
             "job": "programming",
             "email": "jpeterson90@gnu.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/31/2015",
             "price": "$158.02"
         },
@@ -3255,7 +3255,7 @@
             "customer": "Andrea Chapman",
             "job": "branding",
             "email": "achapman91@bluehost.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/9/2015",
             "price": "$417.44"
         },
@@ -3264,8 +3264,8 @@
             "number": "58484-100",
             "customer": "Catherine Gordon",
             "job": "SEO and SEM",
-            "email": "cgordon92@cbsper-hrs.s.com",
-            "status": "per-hrs.",
+            "email": "cgordon92@cbsSilver s.com",
+            "status": "Silver ",
             "date": "7/13/2015",
             "price": "$260.90"
         },
@@ -3275,7 +3275,7 @@
             "customer": "Lois Jones",
             "job": "photoshop",
             "email": "ljones93@blog.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/15/2015",
             "price": "$169.94"
         },
@@ -3285,7 +3285,7 @@
             "customer": "Dorothy Bowman",
             "job": "graphic design",
             "email": "dbowman94@imageshack.us",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/14/2015",
             "price": "$431.55"
         },
@@ -3295,7 +3295,7 @@
             "customer": "Alan Garrett",
             "job": "crm service",
             "email": "agarrett95@europa.eu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/26/2015",
             "price": "$215.73"
         },
@@ -3305,7 +3305,7 @@
             "customer": "Norma Richards",
             "job": "logo design",
             "email": "nrichards96@epa.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/17/2015",
             "price": "$374.70"
         },
@@ -3315,7 +3315,7 @@
             "customer": "Catherine Simmons",
             "job": "programming",
             "email": "csimmons97@psu.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/12/2015",
             "price": "$180.78"
         },
@@ -3325,7 +3325,7 @@
             "customer": "Antonio Mason",
             "job": "SEO and SEM",
             "email": "amason98@narod.ru",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/4/2015",
             "price": "$267.65"
         },
@@ -3335,7 +3335,7 @@
             "customer": "Lori Bowman",
             "job": "web design",
             "email": "lbowman99@wikia.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/20/2014",
             "price": "$420.35"
         },
@@ -3345,7 +3345,7 @@
             "customer": "Denise Marshall",
             "job": "crm service",
             "email": "dmarshall9a@dailymotion.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/13/2015",
             "price": "$351.51"
         },
@@ -3355,7 +3355,7 @@
             "customer": "Elizabeth Reynolds",
             "job": "graphic design",
             "email": "ereynolds9b@delicious.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/26/2015",
             "price": "$399.01"
         },
@@ -3365,7 +3365,7 @@
             "customer": "Diana Alvarez",
             "job": "web design",
             "email": "dalvarez9c@hao123.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/28/2015",
             "price": "$297.06"
         },
@@ -3375,7 +3375,7 @@
             "customer": "Jeremy Russell",
             "job": "web design",
             "email": "jrussell9d@creativecommons.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/8/2015",
             "price": "$244.77"
         },
@@ -3385,7 +3385,7 @@
             "customer": "Helen Long",
             "job": "logo design",
             "email": "hlong9e@wix.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/13/2015",
             "price": "$447.98"
         },
@@ -3395,7 +3395,7 @@
             "customer": "Fred Porter",
             "job": "logo design",
             "email": "fporter9f@delicious.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/27/2015",
             "price": "$181.12"
         },
@@ -3405,7 +3405,7 @@
             "customer": "Frank Weaver",
             "job": "SEO and SEM",
             "email": "fweaver9g@bandcamp.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/17/2014",
             "price": "$124.30"
         },
@@ -3415,7 +3415,7 @@
             "customer": "Stephen Knight",
             "job": "photoshop",
             "email": "sknight9h@amazon.co.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/14/2014",
             "price": "$379.21"
         },
@@ -3425,7 +3425,7 @@
             "customer": "Jason Bailey",
             "job": "crm service",
             "email": "jbailey9i@wordpress.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/22/2015",
             "price": "$373.92"
         },
@@ -3435,7 +3435,7 @@
             "customer": "Matthew Mills",
             "job": "programming",
             "email": "mmills9j@patch.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/23/2015",
             "price": "$251.74"
         },
@@ -3445,7 +3445,7 @@
             "customer": "Sharon Cunningham",
             "job": "php website",
             "email": "scunningham9k@ebay.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/22/2015",
             "price": "$117.67"
         },
@@ -3455,7 +3455,7 @@
             "customer": "Nicholas Ramos",
             "job": "crm service",
             "email": "nramos9l@reddit.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/27/2015",
             "price": "$376.04"
         },
@@ -3465,7 +3465,7 @@
             "customer": "Jacqueline Myers",
             "job": "wordpress website",
             "email": "jmyers9m@google.fr",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/16/2015",
             "price": "$340.63"
         },
@@ -3475,7 +3475,7 @@
             "customer": "Linda Snyder",
             "job": "branding",
             "email": "lsnyder9n@craigslist.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/4/2014",
             "price": "$396.80"
         },
@@ -3485,7 +3485,7 @@
             "customer": "Barbara Sullivan",
             "job": "social media marketing",
             "email": "bsullivan9o@nytimes.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/14/2015",
             "price": "$284.04"
         },
@@ -3495,7 +3495,7 @@
             "customer": "Steven Watkins",
             "job": "photoshop",
             "email": "swatkins9p@google.nl",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/3/2015",
             "price": "$347.43"
         },
@@ -3505,7 +3505,7 @@
             "customer": "Evelyn Marshall",
             "job": "social media marketing",
             "email": "emarshall9q@hud.gov",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/17/2015",
             "price": "$155.50"
         },
@@ -3515,7 +3515,7 @@
             "customer": "Craig Hanson",
             "job": "wordpress website",
             "email": "chanson9r@ibm.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/5/2015",
             "price": "$114.29"
         },
@@ -3525,7 +3525,7 @@
             "customer": "John Henderson",
             "job": "programming",
             "email": "jhenderson9s@blog.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/2/2015",
             "price": "$401.57"
         },
@@ -3535,7 +3535,7 @@
             "customer": "Michael Cox",
             "job": "logo design",
             "email": "mcox9t@mysql.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/14/2015",
             "price": "$262.35"
         },
@@ -3545,7 +3545,7 @@
             "customer": "Lawrence Bishop",
             "job": "branding",
             "email": "lbishop9u@nps.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/11/2015",
             "price": "$308.38"
         },
@@ -3555,7 +3555,7 @@
             "customer": "Janice Welch",
             "job": "SEO and SEM",
             "email": "jwelch9v@paypal.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/14/2015",
             "price": "$230.74"
         },
@@ -3565,7 +3565,7 @@
             "customer": "Tina Grant",
             "job": "branding",
             "email": "tgrant9w@squidoo.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/3/2015",
             "price": "$364.43"
         },
@@ -3575,7 +3575,7 @@
             "customer": "Diane Gibson",
             "job": "social media marketing",
             "email": "dgibson9x@toplist.cz",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/4/2015",
             "price": "$246.94"
         },
@@ -3585,7 +3585,7 @@
             "customer": "Eugene Ford",
             "job": "programming",
             "email": "eford9y@abc.net.au",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/12/2015",
             "price": "$471.63"
         },
@@ -3595,7 +3595,7 @@
             "customer": "Kevin Ross",
             "job": "php website",
             "email": "kross9z@smugmug.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/18/2015",
             "price": "$439.41"
         },
@@ -3605,7 +3605,7 @@
             "customer": "Frank Howell",
             "job": "programming",
             "email": "fhowella0@psu.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/15/2015",
             "price": "$450.13"
         },
@@ -3615,7 +3615,7 @@
             "customer": "Scott Lawrence",
             "job": "graphic design",
             "email": "slawrencea1@answers.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/20/2015",
             "price": "$335.87"
         },
@@ -3625,7 +3625,7 @@
             "customer": "Ralph Pierce",
             "job": "marketing",
             "email": "rpiercea2@tumblr.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/19/2015",
             "price": "$276.75"
         },
@@ -3635,7 +3635,7 @@
             "customer": "Ashley Ray",
             "job": "web design",
             "email": "araya3@nature.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/26/2015",
             "price": "$493.34"
         },
@@ -3645,7 +3645,7 @@
             "customer": "Kevin Sanchez",
             "job": "php website",
             "email": "ksancheza4@alibaba.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/16/2014",
             "price": "$460.85"
         },
@@ -3655,7 +3655,7 @@
             "customer": "Alice Russell",
             "job": "marketing",
             "email": "arussella5@naver.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/18/2015",
             "price": "$263.96"
         },
@@ -3665,7 +3665,7 @@
             "customer": "Cheryl Mason",
             "job": "branding",
             "email": "cmasona6@cmu.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/21/2014",
             "price": "$368.25"
         },
@@ -3675,7 +3675,7 @@
             "customer": "Tina Sims",
             "job": "marketing",
             "email": "tsimsa7@yahoo.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/18/2015",
             "price": "$240.17"
         },
@@ -3685,7 +3685,7 @@
             "customer": "Amanda Moreno",
             "job": "SEO and SEM",
             "email": "amorenoa8@geocities.jp",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/19/2015",
             "price": "$236.24"
         },
@@ -3695,7 +3695,7 @@
             "customer": "Teresa Vasquez",
             "job": "programming",
             "email": "tvasqueza9@nba.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/5/2015",
             "price": "$199.27"
         },
@@ -3705,7 +3705,7 @@
             "customer": "Katherine Day",
             "job": "graphic design",
             "email": "kdayaa@forbes.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/16/2015",
             "price": "$159.57"
         },
@@ -3715,7 +3715,7 @@
             "customer": "Amanda Diaz",
             "job": "graphic design",
             "email": "adiazab@techcrunch.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/3/2015",
             "price": "$283.63"
         },
@@ -3725,7 +3725,7 @@
             "customer": "Phillip Dean",
             "job": "branding",
             "email": "pdeanac@google.ru",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/12/2015",
             "price": "$133.32"
         },
@@ -3735,7 +3735,7 @@
             "customer": "Melissa Kelley",
             "job": "php website",
             "email": "mkelleyad@nasa.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/7/2015",
             "price": "$271.74"
         },
@@ -3745,7 +3745,7 @@
             "customer": "Rose Fernandez",
             "job": "photoshop",
             "email": "rfernandezae@cyberchimps.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/20/2015",
             "price": "$218.74"
         },
@@ -3755,7 +3755,7 @@
             "customer": "Craig Hernandez",
             "job": "php website",
             "email": "chernandezaf@godaddy.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/4/2015",
             "price": "$189.08"
         },
@@ -3765,7 +3765,7 @@
             "customer": "Paula Bell",
             "job": "SEO and SEM",
             "email": "pbellag@smugmug.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/18/2015",
             "price": "$192.82"
         },
@@ -3775,7 +3775,7 @@
             "customer": "John Bell",
             "job": "graphic design",
             "email": "jbellah@time.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/5/2015",
             "price": "$238.18"
         },
@@ -3785,7 +3785,7 @@
             "customer": "Jesse Bowman",
             "job": "wordpress website",
             "email": "jbowmanai@shinystat.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/29/2015",
             "price": "$309.61"
         },
@@ -3795,7 +3795,7 @@
             "customer": "Dorothy Miller",
             "job": "SEO and SEM",
             "email": "dmilleraj@delicious.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/1/2015",
             "price": "$482.13"
         },
@@ -3805,7 +3805,7 @@
             "customer": "Todd Miller",
             "job": "SEO and SEM",
             "email": "tmillerak@cnn.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/7/2015",
             "price": "$267.11"
         },
@@ -3815,7 +3815,7 @@
             "customer": "Bobby Howell",
             "job": "social media marketing",
             "email": "bhowellal@thetimes.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/22/2015",
             "price": "$221.86"
         },
@@ -3825,7 +3825,7 @@
             "customer": "Peter Perez",
             "job": "SEO and SEM",
             "email": "pperezam@indiegogo.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/16/2015",
             "price": "$224.61"
         },
@@ -3835,7 +3835,7 @@
             "customer": "Pamela Bell",
             "job": "programming",
             "email": "pbellan@surveymonkey.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/11/2014",
             "price": "$370.62"
         },
@@ -3845,7 +3845,7 @@
             "customer": "Jane Matthews",
             "job": "php website",
             "email": "jmatthewsao@pcworld.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/12/2015",
             "price": "$324.55"
         },
@@ -3855,7 +3855,7 @@
             "customer": "Marilyn Scott",
             "job": "wordpress website",
             "email": "mscottap@multiply.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/13/2014",
             "price": "$238.58"
         },
@@ -3865,7 +3865,7 @@
             "customer": "Raymond Ross",
             "job": "graphic design",
             "email": "rrossaq@omniture.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/30/2015",
             "price": "$369.19"
         },
@@ -3875,7 +3875,7 @@
             "customer": "Tammy Black",
             "job": "php website",
             "email": "tblackar@ibm.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/7/2015",
             "price": "$100.99"
         },
@@ -3885,7 +3885,7 @@
             "customer": "Chris Parker",
             "job": "web design",
             "email": "cparkeras@pagesperso-orange.fr",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/28/2014",
             "price": "$125.46"
         },
@@ -3895,7 +3895,7 @@
             "customer": "Jerry Williamson",
             "job": "php website",
             "email": "jwilliamsonat@freewebs.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/6/2015",
             "price": "$449.28"
         },
@@ -3905,7 +3905,7 @@
             "customer": "Rose Hart",
             "job": "crm service",
             "email": "rhartau@jimdo.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/21/2015",
             "price": "$175.44"
         },
@@ -3915,7 +3915,7 @@
             "customer": "Katherine Ortiz",
             "job": "photoshop",
             "email": "kortizav@amazon.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/18/2015",
             "price": "$374.58"
         },
@@ -3925,7 +3925,7 @@
             "customer": "Billy Sullivan",
             "job": "photoshop",
             "email": "bsullivanaw@posterous.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/2/2015",
             "price": "$486.91"
         },
@@ -3935,7 +3935,7 @@
             "customer": "Wanda Vasquez",
             "job": "branding",
             "email": "wvasquezax@unblog.fr",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/12/2015",
             "price": "$431.65"
         },
@@ -3945,7 +3945,7 @@
             "customer": "Russell Miller",
             "job": "branding",
             "email": "rmilleray@123-reg.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/30/2015",
             "price": "$169.17"
         },
@@ -3955,7 +3955,7 @@
             "customer": "Jason Adams",
             "job": "web design",
             "email": "jadamsaz@alibaba.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/19/2015",
             "price": "$236.97"
         },
@@ -3965,7 +3965,7 @@
             "customer": "Diane Hill",
             "job": "photoshop",
             "email": "dhillb0@cam.ac.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/10/2015",
             "price": "$293.91"
         },
@@ -3975,7 +3975,7 @@
             "customer": "Evelyn Gordon",
             "job": "branding",
             "email": "egordonb1@cnbc.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/5/2015",
             "price": "$327.41"
         },
@@ -3985,7 +3985,7 @@
             "customer": "Tammy Bryant",
             "job": "wordpress website",
             "email": "tbryantb2@google.es",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/15/2015",
             "price": "$168.33"
         },
@@ -3995,7 +3995,7 @@
             "customer": "Jane Palmer",
             "job": "php website",
             "email": "jpalmerb3@admin.ch",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/26/2015",
             "price": "$465.06"
         },
@@ -4005,7 +4005,7 @@
             "customer": "Larry Gordon",
             "job": "social media marketing",
             "email": "lgordonb4@dell.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/12/2015",
             "price": "$307.59"
         },
@@ -4015,7 +4015,7 @@
             "customer": "Judy Gibson",
             "job": "web design",
             "email": "jgibsonb5@google.nl",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/21/2015",
             "price": "$347.57"
         },
@@ -4025,7 +4025,7 @@
             "customer": "Alice Gomez",
             "job": "SEO and SEM",
             "email": "agomezb6@ifeng.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/27/2015",
             "price": "$483.26"
         },
@@ -4035,7 +4035,7 @@
             "customer": "Joyce Butler",
             "job": "branding",
             "email": "jbutlerb7@goo.gl",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/17/2015",
             "price": "$156.19"
         },
@@ -4045,7 +4045,7 @@
             "customer": "Julie Austin",
             "job": "photoshop",
             "email": "jaustinb8@jugem.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/3/2015",
             "price": "$445.95"
         },
@@ -4055,7 +4055,7 @@
             "customer": "Elizabeth Ramos",
             "job": "graphic design",
             "email": "eramosb9@mac.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/6/2015",
             "price": "$495.94"
         },
@@ -4065,7 +4065,7 @@
             "customer": "Jane Patterson",
             "job": "crm service",
             "email": "jpattersonba@storify.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/24/2015",
             "price": "$282.53"
         },
@@ -4075,7 +4075,7 @@
             "customer": "Christina Harrison",
             "job": "marketing",
             "email": "charrisonbb@businessweek.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/27/2014",
             "price": "$323.97"
         },
@@ -4085,7 +4085,7 @@
             "customer": "Louis Andrews",
             "job": "logo design",
             "email": "landrewsbc@drupal.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/30/2015",
             "price": "$397.92"
         },
@@ -4095,7 +4095,7 @@
             "customer": "Douglas George",
             "job": "crm service",
             "email": "dgeorgebd@japanpost.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/22/2015",
             "price": "$448.80"
         },
@@ -4105,7 +4105,7 @@
             "customer": "Evelyn Garza",
             "job": "graphic design",
             "email": "egarzabe@tuttocitta.it",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/6/2015",
             "price": "$189.02"
         },
@@ -4115,7 +4115,7 @@
             "customer": "Ashley Burke",
             "job": "web design",
             "email": "aburkebf@narod.ru",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/12/2015",
             "price": "$413.93"
         },
@@ -4125,7 +4125,7 @@
             "customer": "Benjamin Perry",
             "job": "logo design",
             "email": "bperrybg@salon.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/17/2015",
             "price": "$498.31"
         },
@@ -4135,7 +4135,7 @@
             "customer": "Joseph Turner",
             "job": "php website",
             "email": "jturnerbh@yale.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/7/2015",
             "price": "$215.30"
         },
@@ -4145,7 +4145,7 @@
             "customer": "Betty Ramirez",
             "job": "logo design",
             "email": "bramirezbi@pinterest.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/13/2015",
             "price": "$130.51"
         },
@@ -4155,7 +4155,7 @@
             "customer": "Phillip Shaw",
             "job": "photoshop",
             "email": "pshawbj@narod.ru",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/11/2015",
             "price": "$263.25"
         },
@@ -4164,8 +4164,8 @@
             "number": "61722-002",
             "customer": "Keith George",
             "job": "wordpress website",
-            "email": "kgeorgebk@per-hrs.yorker.com",
-            "status": "bi-monthly",
+            "email": "kgeorgebk@Silver yorker.com",
+            "status": "Premium ",
             "date": "11/2/2015",
             "price": "$116.40"
         },
@@ -4175,7 +4175,7 @@
             "customer": "Mark Wright",
             "job": "SEO and SEM",
             "email": "mwrightbl@qq.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/13/2015",
             "price": "$134.07"
         },
@@ -4185,7 +4185,7 @@
             "customer": "Donna James",
             "job": "programming",
             "email": "djamesbm@tamu.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/20/2015",
             "price": "$132.90"
         },
@@ -4195,7 +4195,7 @@
             "customer": "John Carpenter",
             "job": "logo design",
             "email": "jcarpenterbn@php.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/30/2015",
             "price": "$191.51"
         },
@@ -4205,7 +4205,7 @@
             "customer": "Teresa Jacobs",
             "job": "SEO and SEM",
             "email": "tjacobsbo@xinhuanet.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/3/2015",
             "price": "$295.72"
         },
@@ -4215,7 +4215,7 @@
             "customer": "Bonnie Murphy",
             "job": "logo design",
             "email": "bmurphybp@thetimes.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/16/2015",
             "price": "$104.66"
         },
@@ -4225,7 +4225,7 @@
             "customer": "Linda Sanchez",
             "job": "programming",
             "email": "lsanchezbq@wikia.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/30/2015",
             "price": "$172.72"
         },
@@ -4235,7 +4235,7 @@
             "customer": "Mark Gomez",
             "job": "SEO and SEM",
             "email": "mgomezbr@tripod.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/31/2015",
             "price": "$125.18"
         },
@@ -4245,7 +4245,7 @@
             "customer": "Deborah Hayes",
             "job": "crm service",
             "email": "dhayesbs@arizona.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/7/2015",
             "price": "$459.33"
         },
@@ -4255,7 +4255,7 @@
             "customer": "Laura Ward",
             "job": "marketing",
             "email": "lwardbt@auda.org.au",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/16/2015",
             "price": "$260.96"
         },
@@ -4265,7 +4265,7 @@
             "customer": "Ralph Stevens",
             "job": "wordpress website",
             "email": "rstevensbu@skyrock.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/27/2015",
             "price": "$490.11"
         },
@@ -4275,7 +4275,7 @@
             "customer": "Emily Cook",
             "job": "branding",
             "email": "ecookbv@reddit.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/6/2015",
             "price": "$190.10"
         },
@@ -4285,7 +4285,7 @@
             "customer": "Joe Meyer",
             "job": "SEO and SEM",
             "email": "jmeyerbw@state.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "10/22/2015",
             "price": "$185.00"
         },
@@ -4295,7 +4295,7 @@
             "customer": "Kevin Webb",
             "job": "logo design",
             "email": "kwebbbx@mtv.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/9/2015",
             "price": "$259.55"
         },
@@ -4305,7 +4305,7 @@
             "customer": "Aaron Williamson",
             "job": "SEO and SEM",
             "email": "awilliamsonby@booking.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/15/2015",
             "price": "$346.14"
         },
@@ -4315,7 +4315,7 @@
             "customer": "Albert Ferguson",
             "job": "social media marketing",
             "email": "afergusonbz@thetimes.co.uk",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/18/2015",
             "price": "$347.73"
         },
@@ -4325,7 +4325,7 @@
             "customer": "Sandra Roberts",
             "job": "marketing",
             "email": "srobertsc0@pinterest.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/27/2015",
             "price": "$163.80"
         },
@@ -4335,7 +4335,7 @@
             "customer": "Billy Cruz",
             "job": "web design",
             "email": "bcruzc1@vimeo.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/19/2015",
             "price": "$104.07"
         },
@@ -4345,7 +4345,7 @@
             "customer": "Henry Larson",
             "job": "branding",
             "email": "hlarsonc2@cafepress.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/12/2015",
             "price": "$260.65"
         },
@@ -4355,7 +4355,7 @@
             "customer": "Alice Fields",
             "job": "wordpress website",
             "email": "afieldsc3@instagram.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "9/29/2015",
             "price": "$411.69"
         },
@@ -4365,7 +4365,7 @@
             "customer": "Sharon Powell",
             "job": "photoshop",
             "email": "spowellc4@gravatar.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/11/2015",
             "price": "$440.67"
         },
@@ -4375,7 +4375,7 @@
             "customer": "Ernest Hernandez",
             "job": "web design",
             "email": "ehernandezc5@ucoz.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/29/2015",
             "price": "$108.01"
         },
@@ -4385,7 +4385,7 @@
             "customer": "Jennifer Ward",
             "job": "wordpress website",
             "email": "jwardc6@businessweek.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/2/2015",
             "price": "$285.61"
         },
@@ -4395,7 +4395,7 @@
             "customer": "Henry Ramirez",
             "job": "marketing",
             "email": "hramirezc7@go.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/10/2015",
             "price": "$340.86"
         },
@@ -4405,7 +4405,7 @@
             "customer": "Ashley Palmer",
             "job": "web design",
             "email": "apalmerc8@dedecms.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/18/2015",
             "price": "$167.47"
         },
@@ -4415,7 +4415,7 @@
             "customer": "Diana Vasquez",
             "job": "web design",
             "email": "dvasquezc9@usda.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/22/2015",
             "price": "$415.73"
         },
@@ -4425,7 +4425,7 @@
             "customer": "Mark Taylor",
             "job": "logo design",
             "email": "mtaylorca@dell.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/16/2015",
             "price": "$397.92"
         },
@@ -4435,7 +4435,7 @@
             "customer": "Gerald Harrison",
             "job": "graphic design",
             "email": "gharrisoncb@amazonaws.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/29/2015",
             "price": "$270.28"
         },
@@ -4445,7 +4445,7 @@
             "customer": "Anthony Washington",
             "job": "php website",
             "email": "awashingtoncc@apache.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/9/2015",
             "price": "$287.06"
         },
@@ -4455,7 +4455,7 @@
             "customer": "Pamela Oliver",
             "job": "web design",
             "email": "polivercd@wiley.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/2/2015",
             "price": "$174.06"
         },
@@ -4465,7 +4465,7 @@
             "customer": "David Grant",
             "job": "logo design",
             "email": "dgrantce@cnet.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/20/2015",
             "price": "$230.58"
         },
@@ -4475,7 +4475,7 @@
             "customer": "James Lee",
             "job": "marketing",
             "email": "jleecf@tinyurl.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/5/2015",
             "price": "$176.43"
         },
@@ -4485,7 +4485,7 @@
             "customer": "Paula Andrews",
             "job": "marketing",
             "email": "pandrewscg@constantcontact.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/19/2015",
             "price": "$440.71"
         },
@@ -4495,7 +4495,7 @@
             "customer": "Sara Phillips",
             "job": "photoshop",
             "email": "sphillipsch@freewebs.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/12/2015",
             "price": "$423.61"
         },
@@ -4505,7 +4505,7 @@
             "customer": "Adam Kim",
             "job": "programming",
             "email": "akimci@shop-pro.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/7/2015",
             "price": "$239.97"
         },
@@ -4515,7 +4515,7 @@
             "customer": "Lawrence Myers",
             "job": "programming",
             "email": "lmyerscj@yahoo.co.jp",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/10/2015",
             "price": "$381.95"
         },
@@ -4525,7 +4525,7 @@
             "customer": "Benjamin Meyer",
             "job": "graphic design",
             "email": "bmeyerck@ucla.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/14/2015",
             "price": "$465.85"
         },
@@ -4535,7 +4535,7 @@
             "customer": "Gerald Grant",
             "job": "marketing",
             "email": "ggrantcl@addtoany.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/9/2015",
             "price": "$489.49"
         },
@@ -4545,7 +4545,7 @@
             "customer": "Ruth Gilbert",
             "job": "branding",
             "email": "rgilbertcm@wikimedia.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "3/26/2015",
             "price": "$213.04"
         },
@@ -4555,7 +4555,7 @@
             "customer": "Sean Myers",
             "job": "photoshop",
             "email": "smyerscn@samsung.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/12/2015",
             "price": "$447.44"
         },
@@ -4565,7 +4565,7 @@
             "customer": "Peter Reed",
             "job": "branding",
             "email": "preedco@cpanel.net",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/3/2014",
             "price": "$128.54"
         },
@@ -4575,7 +4575,7 @@
             "customer": "Kimberly Jackson",
             "job": "logo design",
             "email": "kjacksoncp@example.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/18/2015",
             "price": "$317.46"
         },
@@ -4585,7 +4585,7 @@
             "customer": "Dorothy Lynch",
             "job": "graphic design",
             "email": "dlynchcq@typepad.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "2/8/2015",
             "price": "$127.31"
         },
@@ -4595,7 +4595,7 @@
             "customer": "Steve Young",
             "job": "marketing",
             "email": "syoungcr@usgs.gov",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/30/2015",
             "price": "$294.58"
         },
@@ -4605,7 +4605,7 @@
             "customer": "Melissa Brown",
             "job": "SEO and SEM",
             "email": "mbrowncs@acquirethisname.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/2/2015",
             "price": "$293.81"
         },
@@ -4615,7 +4615,7 @@
             "customer": "Joshua Cooper",
             "job": "wordpress website",
             "email": "jcooperct@t-online.de",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "2/17/2015",
             "price": "$481.09"
         },
@@ -4625,7 +4625,7 @@
             "customer": "Stephen Larson",
             "job": "social media marketing",
             "email": "slarsoncu@gmpg.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/24/2015",
             "price": "$247.48"
         },
@@ -4635,7 +4635,7 @@
             "customer": "Annie Evans",
             "job": "php website",
             "email": "aevanscv@tamu.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/5/2015",
             "price": "$371.32"
         },
@@ -4645,7 +4645,7 @@
             "customer": "Shirley Franklin",
             "job": "crm service",
             "email": "sfranklincw@cnbc.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/5/2015",
             "price": "$168.98"
         },
@@ -4655,7 +4655,7 @@
             "customer": "Matthew Green",
             "job": "crm service",
             "email": "mgreencx@php.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/11/2015",
             "price": "$206.61"
         },
@@ -4665,7 +4665,7 @@
             "customer": "Julia Ortiz",
             "job": "web design",
             "email": "jortizcy@nba.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/16/2015",
             "price": "$369.66"
         },
@@ -4675,7 +4675,7 @@
             "customer": "Kenneth Kelly",
             "job": "crm service",
             "email": "kkellycz@diigo.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/13/2015",
             "price": "$470.76"
         },
@@ -4685,7 +4685,7 @@
             "customer": "Jeremy Hunt",
             "job": "web design",
             "email": "jhuntd0@shutterfly.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/12/2015",
             "price": "$288.39"
         },
@@ -4695,7 +4695,7 @@
             "customer": "Todd Wallace",
             "job": "graphic design",
             "email": "twallaced1@illinois.edu",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "1/27/2015",
             "price": "$186.84"
         },
@@ -4705,7 +4705,7 @@
             "customer": "Jacqueline Green",
             "job": "graphic design",
             "email": "jgreend2@msu.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/24/2014",
             "price": "$140.84"
         },
@@ -4715,7 +4715,7 @@
             "customer": "Brandon Turner",
             "job": "logo design",
             "email": "bturnerd3@blinklist.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/20/2015",
             "price": "$155.39"
         },
@@ -4725,7 +4725,7 @@
             "customer": "Roy Alexander",
             "job": "marketing",
             "email": "ralexanderd4@pcworld.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "7/27/2015",
             "price": "$374.67"
         },
@@ -4735,7 +4735,7 @@
             "customer": "Andrew Stephens",
             "job": "photoshop",
             "email": "astephensd5@facebook.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "3/14/2015",
             "price": "$440.43"
         },
@@ -4745,7 +4745,7 @@
             "customer": "Gloria Kim",
             "job": "programming",
             "email": "gkimd6@typepad.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/27/2015",
             "price": "$490.64"
         },
@@ -4755,7 +4755,7 @@
             "customer": "Wayne Larson",
             "job": "graphic design",
             "email": "wlarsond7@earthlink.net",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/2/2014",
             "price": "$246.11"
         },
@@ -4765,7 +4765,7 @@
             "customer": "Donald Shaw",
             "job": "SEO and SEM",
             "email": "dshawd8@forbes.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/5/2015",
             "price": "$170.10"
         },
@@ -4775,7 +4775,7 @@
             "customer": "Laura Snyder",
             "job": "logo design",
             "email": "lsnyderd9@cdbaby.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/14/2014",
             "price": "$201.15"
         },
@@ -4785,7 +4785,7 @@
             "customer": "Carol Stewart",
             "job": "logo design",
             "email": "cstewartda@sciencedaily.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/27/2015",
             "price": "$279.12"
         },
@@ -4795,7 +4795,7 @@
             "customer": "Gary Turner",
             "job": "wordpress website",
             "email": "gturnerdb@umn.edu",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "11/28/2015",
             "price": "$319.90"
         },
@@ -4805,7 +4805,7 @@
             "customer": "Wanda Tucker",
             "job": "branding",
             "email": "wtuckerdc@gmpg.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/27/2014",
             "price": "$309.64"
         },
@@ -4815,7 +4815,7 @@
             "customer": "Peter Walker",
             "job": "photoshop",
             "email": "pwalkerdd@gravatar.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "5/3/2015",
             "price": "$446.36"
         },
@@ -4825,7 +4825,7 @@
             "customer": "Robert Olson",
             "job": "marketing",
             "email": "rolsonde@dropbox.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/22/2015",
             "price": "$171.29"
         },
@@ -4835,7 +4835,7 @@
             "customer": "Stephanie Wheeler",
             "job": "php website",
             "email": "swheelerdf@t-online.de",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "4/10/2015",
             "price": "$396.29"
         },
@@ -4845,7 +4845,7 @@
             "customer": "Margaret Garcia",
             "job": "php website",
             "email": "mgarciadg@dmoz.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/8/2015",
             "price": "$127.44"
         },
@@ -4855,7 +4855,7 @@
             "customer": "Juan Sullivan",
             "job": "photoshop",
             "email": "jsullivandh@chron.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "4/10/2015",
             "price": "$118.71"
         },
@@ -4865,7 +4865,7 @@
             "customer": "Bonnie Fuller",
             "job": "wordpress website",
             "email": "bfullerdi@un.org",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "5/18/2015",
             "price": "$313.92"
         },
@@ -4875,7 +4875,7 @@
             "customer": "Ashley Kelley",
             "job": "marketing",
             "email": "akelleydj@cloudflare.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "6/3/2015",
             "price": "$156.45"
         },
@@ -4885,7 +4885,7 @@
             "customer": "Norma Fowler",
             "job": "logo design",
             "email": "nfowlerdk@infoseek.co.jp",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "9/19/2015",
             "price": "$189.12"
         },
@@ -4895,7 +4895,7 @@
             "customer": "William Simmons",
             "job": "graphic design",
             "email": "wsimmonsdl@tinypic.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/22/2015",
             "price": "$167.72"
         },
@@ -4905,7 +4905,7 @@
             "customer": "Aaron Bishop",
             "job": "social media marketing",
             "email": "abishopdm@php.net",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "12/26/2014",
             "price": "$295.14"
         },
@@ -4915,7 +4915,7 @@
             "customer": "Diane Webb",
             "job": "programming",
             "email": "dwebbdn@globo.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "6/9/2015",
             "price": "$150.88"
         },
@@ -4925,7 +4925,7 @@
             "customer": "Lois Cox",
             "job": "wordpress website",
             "email": "lcoxdo@webs.com",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/17/2015",
             "price": "$342.97"
         },
@@ -4935,7 +4935,7 @@
             "customer": "Sean Harrison",
             "job": "logo design",
             "email": "sharrisondp@1688.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "10/11/2015",
             "price": "$410.45"
         },
@@ -4945,7 +4945,7 @@
             "customer": "Nicole Palmer",
             "job": "programming",
             "email": "npalmerdq@independent.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "1/5/2015",
             "price": "$150.40"
         },
@@ -4955,7 +4955,7 @@
             "customer": "Russell Griffin",
             "job": "programming",
             "email": "rgriffindr@wikipedia.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "7/1/2015",
             "price": "$161.83"
         },
@@ -4965,7 +4965,7 @@
             "customer": "Joyce Holmes",
             "job": "php website",
             "email": "jholmesds@gmpg.org",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "8/15/2015",
             "price": "$425.47"
         },
@@ -4975,7 +4975,7 @@
             "customer": "Edward Bryant",
             "job": "social media marketing",
             "email": "ebryantdt@bbc.co.uk",
-            "status": "per-hrs.",
+            "status": "Silver ",
             "date": "12/24/2014",
             "price": "$460.20"
         },
@@ -4985,7 +4985,7 @@
             "customer": "Roy Fuller",
             "job": "logo design",
             "email": "rfullerdu@techcrunch.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "11/8/2015",
             "price": "$129.67"
         },
@@ -4995,7 +4995,7 @@
             "customer": "Lisa Howard",
             "job": "marketing",
             "email": "lhowarddv@wp.com",
-            "status": "bi-monthly",
+            "status": "Premium ",
             "date": "8/1/2015",
             "price": "$475.58"
         }

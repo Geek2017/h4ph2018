@@ -102,7 +102,7 @@ angular.module('app')
                         templateUrl: 'partials/frl-sellers.html'
                     })    
                     .state('app.frl-seller-add', {
-                        url: '/ezwork/seller-add',
+                        url: '/ezwork/srcapture',
                         templateUrl: 'partials/frl-seller-add.html'
                     })    
                     .state('app.frl-seller-edit', {
@@ -163,8 +163,16 @@ angular.module('app')
                         templateUrl: 'partials/frl-ticket-edit.html'
                     })
                     .state('app.frl-invoices', {
-                        url: '/ezwork/invoices',
-                        templateUrl: 'partials/frl-invoices.html'
+                        url: '/ezwork/rate',
+                        templateUrl: 'partials/frl-rate.html'
+                    })   
+                    .state('app.frl-statutory', {
+                        url: '/ezwork/statutory',
+                        templateUrl: 'partials/frl-statutory.html'
+                    })    
+                    .state('app.frl-hmo', {
+                        url: '/ezwork/hmo',
+                        templateUrl: 'partials/frl-hmo.html'
                     })    
                     .state('app.frl-invoice-add', {
                         url: '/ezwork/invoice-add',
