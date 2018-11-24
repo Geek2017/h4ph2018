@@ -124,6 +124,21 @@ angular.module('app')
                             ]
                         }
                     }) 
+                    .state('app.frl-report-dropbox', {
+                        url: '/freelancing/report-dropbox',
+                        templateUrl: 'partials/frl-report-dropbox.html',
+                        resolve: {
+                            deps: ['$ocLazyLoad',
+                                function($ocLazyLoad) {
+                                    return $ocLazyLoad.load('chart.js').then(
+                                        function() {
+                                            return $ocLazyLoad.load('js/controllers/frl-report-dropbox.js');
+                                        }
+                                    );
+                                }
+                            ]
+                        }
+                    }) 
                     .state('app.frl-report-buyers', {
                         url: '/freelancing/report-buyers',
                         templateUrl: 'partials/frl-report-buyers.html',
