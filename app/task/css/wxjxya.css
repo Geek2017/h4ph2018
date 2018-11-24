@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+$color-white: #fff;
+$color-purple-lt: #5C557A;
+$color-purple-dk: #271E4F;
+$bg-color: $color-purple-dk;
+$border: rgba(255,255,255,0.1);
+
+body {
+
+	-webkit-text-size-adjust: 100%;
+    font-family: 'Lato', sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+input {
+    -webkit-appearance: none;
+}
+
+*, *:after, *:before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.pen-description {
+  margin: 60px 0;
+  text-align: center; 
+	.summary {
+		margin-bottom: 10px;
+	}
+	.note {
+		color: #555;
+		font-size: .85rem;
+	}
+}
+
+html,body{min-height:100%;}
+
+
